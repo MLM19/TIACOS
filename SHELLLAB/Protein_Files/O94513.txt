@@ -1,0 +1,254 @@
+ID   EIF3E_SCHPO             Reviewed;         501 AA.
+AC   O94513;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1999, sequence version 1.
+DT   22-FEB-2023, entry version 154.
+DE   RecName: Full=Eukaryotic translation initiation factor 3 subunit E {ECO:0000255|HAMAP-Rule:MF_03004};
+DE            Short=eIF3e {ECO:0000255|HAMAP-Rule:MF_03004};
+GN   Name=int6; Synonyms=eif3e, yin6; ORFNames=SPBC646.09c;
+OS   Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Taphrinomycotina;
+OC   Schizosaccharomycetes; Schizosaccharomycetales; Schizosaccharomycetaceae;
+OC   Schizosaccharomyces.
+OX   NCBI_TaxID=284812;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], INTERACTION WITH SPAC25G10.08 AND SUM1,
+RP   SUBCELLULAR LOCATION, AND DISRUPTION PHENOTYPE.
+RC   STRAIN=972 / ATCC 24843;
+RX   PubMed=11071922; DOI=10.1091/mbc.11.11.3993;
+RA   Crane R., Craig R., Murray R., Dunand-Sauthier I., Humphrey T., Norbury C.;
+RT   "A fission yeast homolog of int-6, the mammalian oncoprotein and eIF3
+RT   subunit, induces drug resistance when overexpressed.";
+RL   Mol. Biol. Cell 11:3993-4003(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND INTERACTION WITH MOE1.
+RX   PubMed=11121040; DOI=10.1073/pnas.97.26.14370;
+RA   Yen H.-C.S., Chang E.C.;
+RT   "Yin6, a fission yeast Int6 homolog, complexes with moe1 and plays a role
+RT   in chromosome segregation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:14370-14375(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=972 / ATCC 24843;
+RX   PubMed=11859360; DOI=10.1038/nature724;
+RA   Wood V., Gwilliam R., Rajandream M.A., Lyne M.H., Lyne R., Stewart A.,
+RA   Sgouros J.G., Peat N., Hayles J., Baker S.G., Basham D., Bowman S.,
+RA   Brooks K., Brown D., Brown S., Chillingworth T., Churcher C.M., Collins M.,
+RA   Connor R., Cronin A., Davis P., Feltwell T., Fraser A., Gentles S.,
+RA   Goble A., Hamlin N., Harris D.E., Hidalgo J., Hodgson G., Holroyd S.,
+RA   Hornsby T., Howarth S., Huckle E.J., Hunt S., Jagels K., James K.D.,
+RA   Jones L., Jones M., Leather S., McDonald S., McLean J., Mooney P.,
+RA   Moule S., Mungall K.L., Murphy L.D., Niblett D., Odell C., Oliver K.,
+RA   O'Neil S., Pearson D., Quail M.A., Rabbinowitsch E., Rutherford K.M.,
+RA   Rutter S., Saunders D., Seeger K., Sharp S., Skelton J., Simmonds M.N.,
+RA   Squares R., Squares S., Stevens K., Taylor K., Taylor R.G., Tivey A.,
+RA   Walsh S.V., Warren T., Whitehead S., Woodward J.R., Volckaert G., Aert R.,
+RA   Robben J., Grymonprez B., Weltjens I., Vanstreels E., Rieger M.,
+RA   Schaefer M., Mueller-Auer S., Gabel C., Fuchs M., Duesterhoeft A.,
+RA   Fritzc C., Holzer E., Moestl D., Hilbert H., Borzym K., Langer I., Beck A.,
+RA   Lehrach H., Reinhardt R., Pohl T.M., Eger P., Zimmermann W., Wedler H.,
+RA   Wambutt R., Purnelle B., Goffeau A., Cadieu E., Dreano S., Gloux S.,
+RA   Lelaure V., Mottier S., Galibert F., Aves S.J., Xiang Z., Hunt C.,
+RA   Moore K., Hurst S.M., Lucas M., Rochet M., Gaillardin C., Tallada V.A.,
+RA   Garzon A., Thode G., Daga R.R., Cruzado L., Jimenez J., Sanchez M.,
+RA   del Rey F., Benito J., Dominguez A., Revuelta J.L., Moreno S.,
+RA   Armstrong J., Forsburg S.L., Cerutti L., Lowe T., McCombie W.R.,
+RA   Paulsen I., Potashkin J., Shpakovski G.V., Ussery D., Barrell B.G.,
+RA   Nurse P.;
+RT   "The genome sequence of Schizosaccharomyces pombe.";
+RL   Nature 415:871-880(2002).
+RN   [4]
+RP   DISRUPTION PHENOTYPE, ASSOCIATION WITH THE 40S RIBOSOME, AND SUBCELLULAR
+RP   LOCATION.
+RX   PubMed=11071923; DOI=10.1091/mbc.11.11.4005;
+RA   Bandyopadhyay A., Matsumoto T., Maitra U.;
+RT   "Fission yeast Int6 is not essential for global translation initiation, but
+RT   deletion of int6(+) causes hypersensitivity to caffeine and affects spore
+RT   formation.";
+RL   Mol. Biol. Cell 11:4005-4018(2000).
+RN   [5]
+RP   INTERACTION WITH TIF35, IDENTIFICATION IN THE EIF-3 COMPLEX, ASSOCIATION
+RP   WITH THE 40S RIBOSOME, SUBCELLULAR LOCATION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=11134033; DOI=10.1074/jbc.m010188200;
+RA   Akiyoshi Y., Clayton J., Phan L., Yamamoto M., Hinnebusch A.G.,
+RA   Watanabe Y., Asano K.;
+RT   "Fission yeast homolog of murine Int-6 protein, encoded by mouse mammary
+RT   tumor virus integration site, is associated with the conserved core
+RT   subunits of eukaryotic translation initiation factor 3.";
+RL   J. Biol. Chem. 276:10056-10062(2001).
+RN   [6]
+RP   INTERACTION WITH SPAC25G10.08; MOE1 AND SUM1, AND ASSOCIATION WITH THE 40S
+RP   RIBOSOME.
+RX   PubMed=11705997; DOI=10.1074/jbc.m107790200;
+RA   Bandyopadhyay A., Lakshmanan V., Matsumoto T., Chang E.C., Maitra U.;
+RT   "Moe1 and spInt6, the fission yeast homologues of mammalian translation
+RT   initiation factor 3 subunits p66 (eIF3d) and p48 (eIF3e), respectively, are
+RT   required for stable association of eIF3 subunits.";
+RL   J. Biol. Chem. 277:2360-2367(2002).
+RN   [7]
+RP   FUNCTION, INTERACTION WITH RPN501/RPN502, AND DISRUPTION PHENOTYPE.
+RX   PubMed=12553909; DOI=10.1016/s0092-8674(03)00043-6;
+RA   Yen H.-C.S., Gordon C., Chang E.C.;
+RT   "Schizosaccharomyces pombe Int6 and Ras homologs regulate cell division and
+RT   mitotic fidelity via the proteasome.";
+RL   Cell 112:207-217(2003).
+RN   [8]
+RP   IDENTIFICATION IN THE EIF-3 COMPLEX, IDENTIFICATION BY MASS SPECTROMETRY,
+RP   AND SUBCELLULAR LOCATION.
+RX   PubMed=15904532; DOI=10.1186/1741-7007-3-14;
+RA   Zhou C., Arslan F., Wee S., Krishnan S., Ivanov A.R., Oliva A.,
+RA   Leatherwood J., Wolf D.A.;
+RT   "PCI proteins eIF3e and eIF3m define distinct translation initiation factor
+RT   3 complexes.";
+RL   BMC Biol. 3:14-14(2005).
+RN   [9]
+RP   MUTAGENESIS OF LEU-332.
+RX   PubMed=17761670; DOI=10.1074/jbc.m706276200;
+RA   Sha Z., Yen H.-C.S., Scheel H., Suo J., Hofmann K., Chang E.C.;
+RT   "Isolation of the Schizosaccharomyces pombe proteasome subunit Rpn7 and a
+RT   structure-function study of the proteasome-COP9-initiation factor domain.";
+RL   J. Biol. Chem. 282:32414-32423(2007).
+RN   [10]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=18502752; DOI=10.1074/jbc.m710017200;
+RA   Udagawa T., Nemoto N., Wilkinson C.R.M., Narashimhan J., Jiang L., Watt S.,
+RA   Zook A., Jones N., Wek R.C., Baehler J., Asano K.;
+RT   "Int6/eIF3e promotes general translation and Atf1 abundance to modulate
+RT   Sty1 MAPK-dependent stress response in fission yeast.";
+RL   J. Biol. Chem. 283:22063-22075(2008).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-477 AND SER-479, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=18257517; DOI=10.1021/pr7006335;
+RA   Wilson-Grady J.T., Villen J., Gygi S.P.;
+RT   "Phosphoproteome analysis of fission yeast.";
+RL   J. Proteome Res. 7:1088-1097(2008).
+CC   -!- FUNCTION: Component of the eukaryotic translation initiation factor 3
+CC       (eIF-3) complex, which is involved in protein synthesis of a
+CC       specialized repertoire of mRNAs and, together with other initiation
+CC       factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S
+CC       ribosome. The eIF-3 complex specifically targets and initiates
+CC       translation of a subset of mRNAs involved in cell proliferation
+CC       (Potential). Required for maintaining the basal level of atf1 and for
+CC       transcriptional activation of core environmental stress response genes
+CC       (CESR genes) in response to histidine starvation (PubMed:18502752). May
+CC       positively regulate proteasome activity (PubMed:12553909). Required for
+CC       nuclear localization of the proteasome subunit rpn501/rpn502
+CC       (PubMed:12553909). {ECO:0000255|HAMAP-Rule:MF_03004,
+CC       ECO:0000269|PubMed:12553909, ECO:0000269|PubMed:18502752}.
+CC   -!- SUBUNIT: Component of the eukaryotic translation initiation factor 3
+CC       (eIF-3) complex. The eIF-3 complex appears to include tif32/eif3a,
+CC       SPAC25G10.08/eif3b, tif33/eif3c, SPBC4C3.07/eif3f, tif35/eif3g and
+CC       sum1/eif3i. This set of common subunits may also associate exclusively
+CC       with either moe1/eif3d and int6/eif3e, or with SPAC821.05/eif3h and
+CC       SPAC1751.03/eif3m. The eIF-3 complex may also include
+CC       SPAC3A12.13c/eif3j. Also interacts with the proteasome via
+CC       rpn501/rpn502. {ECO:0000255|HAMAP-Rule:MF_03004,
+CC       ECO:0000269|PubMed:11071922, ECO:0000269|PubMed:11121040,
+CC       ECO:0000269|PubMed:11134033, ECO:0000269|PubMed:11705997,
+CC       ECO:0000269|PubMed:12553909, ECO:0000269|PubMed:15904532}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_03004,
+CC       ECO:0000269|PubMed:11071922, ECO:0000269|PubMed:11071923,
+CC       ECO:0000269|PubMed:11134033, ECO:0000269|PubMed:15904532}.
+CC   -!- DISRUPTION PHENOTYPE: Slow growth, reduced polysome content and reduced
+CC       translational initiation in minimal medium. Mislocalization of
+CC       proteasome subunits to the cytoplasm and impaired proteasome assembly,
+CC       leading to the accumulation of polyubiquitinated proteins including
+CC       cut2 and cdc13. Impaired mitosis and spore formation. Enhanced
+CC       sensitivity to 3-aminotriazole (3AT), caffeine and thiabendazole.
+CC       {ECO:0000269|PubMed:11071922, ECO:0000269|PubMed:11071923,
+CC       ECO:0000269|PubMed:11134033, ECO:0000269|PubMed:12553909,
+CC       ECO:0000269|PubMed:18502752}.
+CC   -!- SIMILARITY: Belongs to the eIF-3 subunit E family. {ECO:0000255|HAMAP-
+CC       Rule:MF_03004}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF117648; AAD29969.1; -; mRNA.
+DR   EMBL; AF260238; AAG41139.1; -; Genomic_DNA.
+DR   EMBL; CU329671; CAA22813.1; -; Genomic_DNA.
+DR   PIR; T40585; T40585.
+DR   PIR; T50488; T50488.
+DR   RefSeq; NP_595367.1; NM_001021275.2.
+DR   AlphaFoldDB; O94513; -.
+DR   SMR; O94513; -.
+DR   BioGRID; 277604; 158.
+DR   STRING; 4896.SPBC646.09c.1; -.
+DR   iPTMnet; O94513; -.
+DR   MaxQB; O94513; -.
+DR   PaxDb; O94513; -.
+DR   EnsemblFungi; SPBC646.09c.1; SPBC646.09c.1:pep; SPBC646.09c.
+DR   GeneID; 2541089; -.
+DR   KEGG; spo:SPBC646.09c; -.
+DR   PomBase; SPBC646.09c; int6.
+DR   VEuPathDB; FungiDB:SPBC646.09c; -.
+DR   eggNOG; KOG2758; Eukaryota.
+DR   HOGENOM; CLU_031132_0_0_1; -.
+DR   InParanoid; O94513; -.
+DR   OMA; TWGKLAC; -.
+DR   PhylomeDB; O94513; -.
+DR   Reactome; R-SPO-156827; L13a-mediated translational silencing of Ceruloplasmin expression.
+DR   Reactome; R-SPO-72689; Formation of a pool of free 40S subunits.
+DR   Reactome; R-SPO-72695; Formation of the ternary complex, and subsequently, the 43S complex.
+DR   Reactome; R-SPO-72702; Ribosomal scanning and start codon recognition.
+DR   PRO; PR:O94513; -.
+DR   Proteomes; UP000002485; Chromosome II.
+DR   GO; GO:0005737; C:cytoplasm; IDA:PomBase.
+DR   GO; GO:0005829; C:cytosol; IDA:PomBase.
+DR   GO; GO:0016282; C:eukaryotic 43S preinitiation complex; IDA:PomBase.
+DR   GO; GO:0033290; C:eukaryotic 48S preinitiation complex; IEA:UniProtKB-UniRule.
+DR   GO; GO:0005852; C:eukaryotic translation initiation factor 3 complex; IDA:PomBase.
+DR   GO; GO:0071540; C:eukaryotic translation initiation factor 3 complex, eIF3e; IDA:PomBase.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0003743; F:translation initiation factor activity; IEA:UniProtKB-UniRule.
+DR   GO; GO:0070196; P:eukaryotic translation initiation factor 3 complex assembly; IMP:PomBase.
+DR   GO; GO:0001732; P:formation of cytoplasmic translation initiation complex; IC:PomBase.
+DR   GO; GO:0032436; P:positive regulation of proteasomal ubiquitin-dependent protein catabolic process; IMP:PomBase.
+DR   GO; GO:0006413; P:translational initiation; IBA:GO_Central.
+DR   HAMAP; MF_03004; eIF3e; 1.
+DR   InterPro; IPR016650; eIF3e.
+DR   InterPro; IPR019010; eIF3e_N.
+DR   InterPro; IPR000717; PCI_dom.
+DR   PANTHER; PTHR10317; EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT E; 1.
+DR   PANTHER; PTHR10317:SF0; EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT E; 1.
+DR   Pfam; PF09440; eIF3_N; 1.
+DR   PIRSF; PIRSF016255; eIF3e_su6; 1.
+DR   SMART; SM01186; eIF3_N; 1.
+DR   PROSITE; PS50250; PCI; 1.
+PE   1: Evidence at protein level;
+KW   Cytoplasm; Initiation factor; Phosphoprotein; Protein biosynthesis;
+KW   Reference proteome; Stress response.
+FT   CHAIN           1..501
+FT                   /note="Eukaryotic translation initiation factor 3 subunit
+FT                   E"
+FT                   /id="PRO_0000123519"
+FT   DOMAIN          245..423
+FT                   /note="PCI"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01185"
+FT   MOD_RES         477
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:18257517"
+FT   MOD_RES         479
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:18257517"
+FT   MUTAGEN         332
+FT                   /note="L->D: Abrogates interaction with the proteasome."
+FT                   /evidence="ECO:0000269|PubMed:17761670"
+FT   CONFLICT        311
+FT                   /note="P -> H (in Ref. 1; AAD29969)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        316
+FT                   /note="I -> N (in Ref. 1; AAD29969)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   501 AA;  57114 MW;  425AA7B284913831 CRC64;
+     MGSELKSTSP LAVKYDLSQK IMQHLDRHLI FPLLEFLSLR QTHDPKELLQ AKYDLLKDTN
+     MTDYVANLWT NLHGGHTDED MANAFAEKRR SVLQELSELE EEVQGILGVL ENPDLIAALR
+     QDKGQNLQHL QEHYNITPER IAVLYKFAQF QYNCGNYGGA SDLLYHFRAF SKDPELNASA
+     TWGKFASEIL TVDWDGAMEE LGKLREMVDS KSFKDSAVQL RNRTWLLHWS LFPLFNHANG
+     CDTLCDLFFY TPYLNTIQTS CPWLLRYLTV AVVTNQNNAN QKPRNPRQSY QRRMRDLVRI
+     ISQENYEYSD PVTSFISALY TEVDFEKAQH CLRECEEVLK TDFFLVSLCD HFLEGARKLL
+     AEAYCRIHSV ISVDVLANKL EMDSAQLIQL VENRNNPSVA AASNVAADQS TEDESIESTS
+     TNVVADDLIT EAETATEAEE PEPEVQFGFK AKLDGESIII EHPTYSAFQQ IIDRTKSLSF
+     ESQNLEQSLA KSISELKHAT V
+//

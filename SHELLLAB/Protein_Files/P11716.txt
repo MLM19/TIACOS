@@ -1,0 +1,1267 @@
+ID   RYR1_RABIT              Reviewed;        5037 AA.
+AC   P11716;
+DT   01-OCT-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1989, sequence version 1.
+DT   22-FEB-2023, entry version 190.
+DE   RecName: Full=Ryanodine receptor 1;
+DE            Short=RYR-1;
+DE            Short=RyR1;
+DE   AltName: Full=Skeletal muscle calcium release channel;
+DE   AltName: Full=Skeletal muscle ryanodine receptor;
+DE   AltName: Full=Skeletal muscle-type ryanodine receptor;
+DE   AltName: Full=Type 1 ryanodine receptor;
+GN   Name=RYR1;
+OS   Oryctolagus cuniculus (Rabbit).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Glires; Lagomorpha; Leporidae; Oryctolagus.
+OX   NCBI_TaxID=9986;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PARTIAL PROTEIN SEQUENCE, DOMAIN, TISSUE
+RP   SPECIFICITY, AND SUBCELLULAR LOCATION.
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=2725677; DOI=10.1038/339439a0;
+RA   Takeshima H., Nishimura S., Matsumoto T., Ishido H., Kangawa K.,
+RA   Minamino N., Matsuo H., Ueda M., Hanaoka M., Hirose T., Numa S.;
+RT   "Primary structure and expression from complementary DNA of skeletal muscle
+RT   ryanodine receptor.";
+RL   Nature 339:439-445(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=2298749; DOI=10.1016/s0021-9258(19)39968-5;
+RA   Zorzato F., Fujii J., Otsu K., Phillips M.S., Green N.M., Lai F.A.,
+RA   Meissner G., Maclennan D.H.;
+RT   "Molecular cloning of cDNA encoding human and rabbit forms of the Ca2+
+RT   release channel (ryanodine receptor) of skeletal muscle sarcoplasmic
+RT   reticulum.";
+RL   J. Biol. Chem. 265:2244-2256(1990).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 3631-3650, S-NITROSYLATION AT CYS-3635, AND INTERACTION
+RP   WITH CALM.
+RX   PubMed=10601232; DOI=10.1074/jbc.274.52.36831;
+RA   Porter Moore C., Zhang J.Z., Hamilton S.L.;
+RT   "A role for cysteine 3635 of RYR1 in redox modulation and calmodulin
+RT   binding.";
+RL   J. Biol. Chem. 274:36831-36834(1999).
+RN   [4]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=3722165; DOI=10.1016/s0021-9258(19)84428-9;
+RA   Pessah I.N., Francini A.O., Scales D.J., Waterhouse A.L., Casida J.E.;
+RT   "Calcium-ryanodine receptor complex. Solubilization and partial
+RT   characterization from skeletal muscle junctional sarcoplasmic reticulum
+RT   vesicles.";
+RL   J. Biol. Chem. 261:8643-8648(1986).
+RN   [5]
+RP   PHOSPHORYLATION AT SER-2843.
+RX   PubMed=8380342; DOI=10.1016/0167-4889(93)90023-i;
+RA   Suko J., Maurer-Fogy I., Plank B., Bertel O., Wyskovsky W., Hohenegger M.,
+RA   Hellmann G.;
+RT   "Phosphorylation of serine 2843 in ryanodine receptor-calcium release
+RT   channel of skeletal muscle by cAMP-, cGMP- and CaM-dependent protein
+RT   kinase.";
+RL   Biochim. Biophys. Acta 1175:193-206(1993).
+RN   [6]
+RP   INTERACTION WITH FKBP1A, AND TISSUE SPECIFICITY.
+RX   PubMed=7669046; DOI=10.1006/bbrc.1995.2283;
+RA   Xin H.B., Timerman A.P., Onoue H., Wiederrecht G.J., Fleischer S.;
+RT   "Affinity purification of the ryanodine receptor/calcium release channel
+RT   from fast twitch skeletal muscle based on its tight association with
+RT   FKBP12.";
+RL   Biochem. Biophys. Res. Commun. 214:263-270(1995).
+RN   [7]
+RP   INTERACTION WITH FKBP1A.
+RX   PubMed=10603943; DOI=10.1111/j.1749-6632.1998.tb08263.x;
+RA   Ondrias K., Marx S.O., Gaburjakova M., Marks A.R.;
+RT   "FKBP12 modulates gating of the ryanodine receptor/calcium release
+RT   channel.";
+RL   Ann. N. Y. Acad. Sci. 853:149-156(1998).
+RN   [8]
+RP   INTERACTION WITH TRDN.
+RX   PubMed=9737879; DOI=10.1021/bi972803d;
+RA   Ohkura M., Furukawa K., Fujimori H., Kuruma A., Kawano S., Hiraoka M.,
+RA   Kuniyasu A., Nakayama H., Ohizumi Y.;
+RT   "Dual regulation of the skeletal muscle ryanodine receptor by triadin and
+RT   calsequestrin.";
+RL   Biochemistry 37:12987-12993(1998).
+RN   [9]
+RP   INTERACTION WITH CACNA1S, AND FUNCTION.
+RX   PubMed=10388749; DOI=10.1016/s0006-3495(99)76881-5;
+RA   Dulhunty A.F., Laver D.R., Gallant E.M., Casarotto M.G., Pace S.M.,
+RA   Curtis S.;
+RT   "Activation and inhibition of skeletal RyR channels by a part of the
+RT   skeletal DHPR II-III loop: effects of DHPR Ser687 and FKBP12.";
+RL   Biophys. J. 77:189-203(1999).
+RN   [10]
+RP   FUNCTION, ACTIVITY REGULATION, SUBCELLULAR LOCATION, MUTAGENESIS OF
+RP   ILE-4897, AND SUBUNIT.
+RX   PubMed=10097181; DOI=10.1073/pnas.96.7.4164;
+RA   Lynch P.J., Tong J., Lehane M., Mallet A., Giblin L., Heffron J.J.A.,
+RA   Vaughan P., Zafra G., MacLennan D.H., McCarthy T.V.;
+RT   "A mutation in the transmembrane/luminal domain of the ryanodine receptor
+RT   is associated with abnormal Ca(2+) release channel function and severe
+RT   central core disease.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:4164-4169(1999).
+RN   [11]
+RP   S-NITROSYLATION AT CYS-3635, MUTAGENESIS OF CYS-3635, AND INTERACTION WITH
+RP   CALM.
+RX   PubMed=11562475; DOI=10.1073/pnas.201289098;
+RA   Sun J., Xin C., Eu J.P., Stamler J.S., Meissner G.;
+RT   "Cysteine-3635 is responsible for skeletal muscle ryanodine receptor
+RT   modulation by NO.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:11158-11162(2001).
+RN   [12]
+RP   INTERACTION WITH RYR2.
+RX   PubMed=12213830; DOI=10.1074/jbc.m208210200;
+RA   Xiao B., Masumiya H., Jiang D., Wang R., Sei Y., Zhang L., Murayama T.,
+RA   Ogawa Y., Lai F.A., Wagenknecht T., Chen S.R.;
+RT   "Isoform-dependent formation of heteromeric Ca2+ release channels
+RT   (ryanodine receptors).";
+RL   J. Biol. Chem. 277:41778-41785(2002).
+RN   [13]
+RP   SUBCELLULAR LOCATION, AND MEMBRANE TOPOLOGY.
+RX   PubMed=12486242; DOI=10.1073/pnas.012688999;
+RA   Du G.G., Sandhu B., Khanna V.K., Guo X.H., MacLennan D.H.;
+RT   "Topology of the Ca2+ release channel of skeletal muscle sarcoplasmic
+RT   reticulum (RyR1).";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:16725-16730(2002).
+RN   [14]
+RP   FUNCTION, SUBCELLULAR LOCATION, ACTIVITY REGULATION, AND MUTAGENESIS OF
+RP   ARG-164; GLY-342; ARG-615; ARG-2163; VAL-2168; ARG-2458 AND THR-4825.
+RX   PubMed=12732639; DOI=10.1074/jbc.m302165200;
+RA   Yang T., Ta T.A., Pessah I.N., Allen P.D.;
+RT   "Functional defects in six ryanodine receptor isoform-1 (RyR1) mutations
+RT   associated with malignant hyperthermia and their impact on skeletal
+RT   excitation-contraction coupling.";
+RL   J. Biol. Chem. 278:25722-25730(2003).
+RN   [15]
+RP   INTERACTION WITH SELENON.
+RX   PubMed=18713863; DOI=10.1073/pnas.0806015105;
+RA   Jurynec M.J., Xia R., Mackrill J.J., Gunther D., Crawford T.,
+RA   Flanigan K.M., Abramson J.J., Howard M.T., Grunwald D.J.;
+RT   "Selenoprotein N is required for ryanodine receptor calcium release channel
+RT   activity in human and zebrafish muscle.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:12485-12490(2008).
+RN   [16]
+RP   INTERACTION WITH TRDN AND ASPH.
+RX   PubMed=19398037; DOI=10.1016/j.biocel.2009.04.017;
+RA   Wei L., Gallant E.M., Dulhunty A.F., Beard N.A.;
+RT   "Junctin and triadin each activate skeletal ryanodine receptors but junctin
+RT   alone mediates functional interactions with calsequestrin.";
+RL   Int. J. Biochem. Cell Biol. 41:2214-2224(2009).
+RN   [17]
+RP   INTERACTION WITH CACNB1.
+RX   PubMed=21320436; DOI=10.1016/j.bpj.2011.01.022;
+RA   Rebbeck R.T., Karunasekara Y., Gallant E.M., Board P.G., Beard N.A.,
+RA   Casarotto M.G., Dulhunty A.F.;
+RT   "The beta(1a) subunit of the skeletal DHPR binds to skeletal RyR1 and
+RT   activates the channel via its 35-residue C-terminal tail.";
+RL   Biophys. J. 100:922-930(2011).
+RN   [18]
+RP   FUNCTION, ACTIVITY REGULATION, S-NITROSYLATION AT CYS-3635, AND MUTAGENESIS
+RP   OF CYS-3635.
+RX   PubMed=22036948; DOI=10.1038/emboj.2011.386;
+RA   Kakizawa S., Yamazawa T., Chen Y., Ito A., Murayama T., Oyamada H.,
+RA   Kurebayashi N., Sato O., Watanabe M., Mori N., Oguchi K., Sakurai T.,
+RA   Takeshima H., Saito N., Iino M.;
+RT   "Nitric oxide-induced calcium release via ryanodine receptors regulates
+RT   neuronal function.";
+RL   EMBO J. 31:417-428(2012).
+RN   [19]
+RP   INTERACTION WITH SCORPION CALCIN.
+RX   PubMed=27114612; DOI=10.1085/jgp.201511499;
+RA   Xiao L., Gurrola G.B., Zhang J., Valdivia C.R., SanMartin M., Zamudio F.Z.,
+RA   Zhang L., Possani L.D., Valdivia H.H.;
+RT   "Structure-function relationships of peptides forming the calcin family of
+RT   ryanodine receptor ligands.";
+RL   J. Gen. Physiol. 147:375-394(2016).
+RN   [20]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (10 ANGSTROMS), SUBUNIT, TISSUE
+RP   SPECIFICITY, AND SUBCELLULAR LOCATION.
+RX   PubMed=15908964; DOI=10.1038/nsmb938;
+RA   Samso M., Wagenknecht T., Allen P.D.;
+RT   "Internal structure and visualization of transmembrane domains of the RyR1
+RT   calcium release channel by cryo-EM.";
+RL   Nat. Struct. Mol. Biol. 12:539-544(2005).
+RN   [21]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 3614-3643 IN COMPLEX WITH CALM.
+RX   PubMed=17027503; DOI=10.1016/j.str.2006.08.011;
+RA   Maximciuc A.A., Putkey J.A., Shamoo Y., Mackenzie K.R.;
+RT   "Complex of calmodulin with a ryanodine receptor target reveals a novel,
+RT   flexible binding mode.";
+RL   Structure 14:1547-1556(2006).
+RN   [22]
+RP   STRUCTURE BY ELECTRON MICROSCOPY (9.6 ANGSTROMS), AND SUBUNIT.
+RX   PubMed=18621707; DOI=10.1073/pnas.0803189105;
+RA   Serysheva I.I., Ludtke S.J., Baker M.L., Cong Y., Topf M., Eramian D.,
+RA   Sali A., Hamilton S.L., Chiu W.;
+RT   "Subnanometer-resolution electron cryomicroscopy-based domain models for
+RT   the cytoplasmic region of skeletal muscle RyR channel.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:9610-9615(2008).
+RN   [23]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 1-210.
+RX   PubMed=19541610; DOI=10.1073/pnas.0905186106;
+RA   Amador F.J., Liu S., Ishiyama N., Plevin M.J., Wilson A., MacLennan D.H.,
+RA   Ikura M.;
+RT   "Crystal structure of type I ryanodine receptor amino-terminal beta-trefoil
+RT   domain reveals a disease-associated mutation 'hot spot' loop.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:11040-11044(2009).
+RN   [24]
+RP   X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF 9-205.
+RX   PubMed=19913485; DOI=10.1016/j.str.2009.08.016;
+RA   Lobo P.A., Van Petegem F.;
+RT   "Crystal structures of the N-terminal domains of cardiac and skeletal
+RT   muscle ryanodine receptors: insights into disease mutations.";
+RL   Structure 17:1505-1514(2009).
+RN   [25]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 1-559.
+RX   PubMed=21048710; DOI=10.1038/nature09471;
+RA   Tung C.C., Lobo P.A., Kimlicka L., Van Petegem F.;
+RT   "The amino-terminal disease hotspot of ryanodine receptors forms a
+RT   cytoplasmic vestibule.";
+RL   Nature 468:585-588(2010).
+RN   [26] {ECO:0007744|PDB:3RQR}
+RP   X-RAY CRYSTALLOGRAPHY (2.16 ANGSTROMS) OF 2733-2940.
+RX   PubMed=22913516; DOI=10.1111/j.1742-4658.2012.08755.x;
+RA   Sharma P., Ishiyama N., Nair U., Li W., Dong A., Miyake T., Wilson A.,
+RA   Ryan T., MacLennan D.H., Kislinger T., Ikura M., Dhe-Paganon S.,
+RA   Gramolini A.O.;
+RT   "Structural determination of the phosphorylation domain of the ryanodine
+RT   receptor.";
+RL   FEBS J. 279:3952-3964(2012).
+RN   [27] {ECO:0007744|PDB:4ERT, ECO:0007744|PDB:4ESU, ECO:0007744|PDB:4ETU}
+RP   X-RAY CRYSTALLOGRAPHY (1.59 ANGSTROMS) OF 2734-2940, AND MUTAGENESIS OF
+RP   LEU-2867.
+RX   PubMed=22705209; DOI=10.1016/j.str.2012.04.015;
+RA   Yuchi Z., Lau K., Van Petegem F.;
+RT   "Disease mutations in the ryanodine receptor central region: crystal
+RT   structures of a phosphorylation hot spot domain.";
+RL   Structure 20:1201-1211(2012).
+RN   [28] {ECO:0007744|PDB:4I0Y, ECO:0007744|PDB:4I1E, ECO:0007744|PDB:4I2S, ECO:0007744|PDB:4I37, ECO:0007744|PDB:4I3N, ECO:0007744|PDB:4I6I, ECO:0007744|PDB:4I7I, ECO:0007744|PDB:4I8M, ECO:0007744|PDB:4I96}
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) OF 1-536.
+RX   PubMed=23422674; DOI=10.1038/ncomms2501;
+RA   Kimlicka L., Lau K., Tung C.C., Van Petegem F.;
+RT   "Disease mutations in the ryanodine receptor N-terminal region couple to a
+RT   mobile intersubunit interface.";
+RL   Nat. Commun. 4:1506-1506(2013).
+RN   [29] {ECO:0007744|PDB:4P9J}
+RP   X-RAY CRYSTALLOGRAPHY (1.84 ANGSTROMS) OF 1070-1246, AND MUTAGENESIS OF
+RP   ARG-1076.
+RX   PubMed=25370123; DOI=10.1038/ncomms6397;
+RA   Lau K., Van Petegem F.;
+RT   "Crystal structures of wild type and disease mutant forms of the ryanodine
+RT   receptor SPRY2 domain.";
+RL   Nat. Commun. 5:5397-5397(2014).
+RN   [30] {ECO:0007744|PDB:5C30}
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) OF 857-1054, INTERACTION WITH
+RP   FKBP1A, FUNCTION, ACTIVITY REGULATION, AND MUTAGENESIS OF 674-PHE-LEU-675;
+RP   ASN-760; ARG-1044; GLY-1050 AND VAL-2461.
+RX   PubMed=26245150; DOI=10.1038/ncomms8947;
+RA   Yuchi Z., Yuen S.M., Lau K., Underhill A.Q., Cornea R.L., Fessenden J.D.,
+RA   Van Petegem F.;
+RT   "Crystal structures of ryanodine receptor SPRY1 and tandem-repeat domains
+RT   reveal a critical FKBP12 binding determinant.";
+RL   Nat. Commun. 6:7947-7947(2015).
+RN   [31] {ECO:0007744|PDB:4UWA, ECO:0007744|PDB:4UWE}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (6.10 ANGSTROMS), SUBCELLULAR LOCATION,
+RP   TOPOLOGY, AND TISSUE SPECIFICITY.
+RX   PubMed=25470059; DOI=10.1038/nature13916;
+RA   Efremov R.G., Leitner A., Aebersold R., Raunser S.;
+RT   "Architecture and conformational switch mechanism of the ryanodine
+RT   receptor.";
+RL   Nature 517:39-43(2015).
+RN   [32] {ECO:0007744|PDB:3J8H}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.80 ANGSTROMS) IN COMPLEX WITH FKBP1A,
+RP   SUBUNIT, SUBCELLULAR LOCATION, TOPOLOGY, TISSUE SPECIFICITY, AND DOMAIN.
+RX   PubMed=25517095; DOI=10.1038/nature14063;
+RA   Yan Z., Bai X.C., Yan C., Wu J., Li Z., Xie T., Peng W., Yin C.C., Li X.,
+RA   Scheres S.H., Shi Y., Yan N.;
+RT   "Structure of the rabbit ryanodine receptor RyR1 at near-atomic
+RT   resolution.";
+RL   Nature 517:50-55(2015).
+RN   [33] {ECO:0007744|PDB:5T15, ECO:0007744|PDB:5T9M, ECO:0007744|PDB:5T9V, ECO:0007744|PDB:5TA3, ECO:0007744|PDB:5TAL, ECO:0007744|PDB:5TAM, ECO:0007744|PDB:5TAN}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.60 ANGSTROMS) OF 12-1275; 1573-2479;
+RP   2734-2939 AND 3639-5037 IN COMPLEXES WITH CALCIUM; ATP; RYANODINE AND
+RP   CAFFEINE, FUNCTION, ACTIVITY REGULATION, SUBUNIT, SUBCELLULAR LOCATION,
+RP   DOMAIN, AND TOPOLOGY.
+RX   PubMed=27662087; DOI=10.1016/j.cell.2016.08.075;
+RA   des Georges A., Clarke O.B., Zalk R., Yuan Q., Condon K.J., Grassucci R.A.,
+RA   Hendrickson W.A., Marks A.R., Frank J.;
+RT   "Structural basis for gating and activation of RyR1.";
+RL   Cell 167:145-157(2016).
+RN   [34] {ECO:0007744|PDB:5J8V}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (4.90 ANGSTROMS), SUBUNIT, SUBCELLULAR
+RP   LOCATION, TOPOLOGY, AND TISSUE SPECIFICITY.
+RX   PubMed=27573175; DOI=10.1038/cr.2016.99;
+RA   Wei R., Wang X., Zhang Y., Mukherjee S., Zhang L., Chen Q., Huang X.,
+RA   Jing S., Liu C., Li S., Wang G., Xu Y., Zhu S., Williams A.J., Sun F.,
+RA   Yin C.C.;
+RT   "Structural insights into Ca(2+)-activated long-range allosteric channel
+RT   gating of RyR1.";
+RL   Cell Res. 26:977-994(2016).
+RN   [35] {ECO:0007744|PDB:5GKY, ECO:0007744|PDB:5GKZ, ECO:0007744|PDB:5GL0, ECO:0007744|PDB:5GL1}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.80 ANGSTROMS) IN COMPLEX WITH FKBP1A,
+RP   SUBUNIT, SUBCELLULAR LOCATION, TOPOLOGY, TISSUE SPECIFICITY, AND DOMAIN.
+RX   PubMed=27468892; DOI=10.1038/cr.2016.89;
+RA   Bai X.C., Yan Z., Wu J., Li Z., Yan N.;
+RT   "The central domain of RyR1 is the transducer for long-range allosteric
+RT   gating of channel opening.";
+RL   Cell Res. 26:995-1006(2016).
+CC   -!- FUNCTION: Calcium channel that mediates the release of Ca(2+) from the
+CC       sarcoplasmic reticulum into the cytoplasm and thereby plays a key role
+CC       in triggering muscle contraction following depolarization of T-tubules
+CC       (PubMed:3722165, PubMed:10388749, PubMed:10097181, PubMed:12732639,
+CC       PubMed:22036948, PubMed:26245150, PubMed:27662087). Repeated very high-
+CC       level exercise increases the open probability of the channel and leads
+CC       to Ca(2+) leaking into the cytoplasm (By similarity). Can also mediate
+CC       the release of Ca(2+) from intracellular stores in neurons, and may
+CC       thereby promote prolonged Ca(2+) signaling in the brain. Required for
+CC       normal embryonic development of muscle fibers and skeletal muscle.
+CC       Required for normal heart morphogenesis, skin development and
+CC       ossification during embryogenesis (By similarity).
+CC       {ECO:0000250|UniProtKB:E9PZQ0, ECO:0000269|PubMed:10388749,
+CC       ECO:0000269|PubMed:12732639, ECO:0000269|PubMed:22036948,
+CC       ECO:0000269|PubMed:27662087, ECO:0000305|PubMed:10097181,
+CC       ECO:0000305|PubMed:26245150, ECO:0000305|PubMed:3722165}.
+CC   -!- ACTIVITY REGULATION: Channel activity is modulated by the alkaloid
+CC       ryanodine that binds to the open Ca-release channel with high affinity
+CC       (PubMed:27662087). At low concentrations, ryanodine maintains the
+CC       channel in an open conformation (PubMed:27662087). High ryanodine
+CC       concentrations inhibit channel activity (PubMed:27662087). Channel
+CC       activity is regulated by calmodulin (CALM). The calcium release is
+CC       activated by increased cytoplasmic calcium levels, by nitric oxyde
+CC       (NO), caffeine and ATP (PubMed:12732639, PubMed:22036948,
+CC       PubMed:26245150, PubMed:27662087). Channel activity is inhibited by
+CC       magnesium ions, possibly by competition for calcium binding sites
+CC       (PubMed:12732639). {ECO:0000269|PubMed:12732639,
+CC       ECO:0000269|PubMed:22036948, ECO:0000269|PubMed:26245150,
+CC       ECO:0000269|PubMed:27662087}.
+CC   -!- SUBUNIT: Homotetramer (PubMed:10097181, PubMed:15908964,
+CC       PubMed:17027503, PubMed:18621707, PubMed:25470059, PubMed:25517095,
+CC       PubMed:27662087, PubMed:27573175, PubMed:27468892). Can also form
+CC       heterotetramers with RYR2 (PubMed:12213830). Identified in a complex
+CC       composed of RYR1, PDE4D, PKA, FKBP1A and protein phosphatase 1 (PP1).
+CC       Repeated very high-level exercise decreases interaction with PDE4D and
+CC       protein phosphatase 1 (PP1) (By similarity). Interacts with CALM; CALM
+CC       with bound calcium inhibits the RYR1 channel activity (PubMed:10601232,
+CC       PubMed:11562475, PubMed:17027503). Interacts with S100A1 (By
+CC       similarity). Interacts with FKBP1A; this stabilizes the closed
+CC       conformation of the channel (PubMed:7669046, PubMed:10603943,
+CC       PubMed:26245150, PubMed:25517095, PubMed:27468892). Interacts with
+CC       CACNA1S; interaction with CACNA1S is important for activation of the
+CC       RYR1 channel (PubMed:10388749). Interacts with CACNB1
+CC       (PubMed:21320436). Interacts with TRDN and ASPH; these interactions
+CC       stimulate RYR1 channel activity (PubMed:9737879, PubMed:19398037).
+CC       Interacts with SELENON (PubMed:18713863). Interacts with scorpion
+CC       calcins (AC P0DPT1; AC P0DM30; AC A0A1L4BJ42; AC P59868; AC P60254; AC
+CC       B8QG00; AC L0GBR1; AC P60252; AC P60253) (PubMed:27114612).
+CC       {ECO:0000250|UniProtKB:E9PZQ0, ECO:0000250|UniProtKB:P21817,
+CC       ECO:0000269|PubMed:10097181, ECO:0000269|PubMed:10388749,
+CC       ECO:0000269|PubMed:10601232, ECO:0000269|PubMed:10603943,
+CC       ECO:0000269|PubMed:11562475, ECO:0000269|PubMed:12213830,
+CC       ECO:0000269|PubMed:15908964, ECO:0000269|PubMed:17027503,
+CC       ECO:0000269|PubMed:18621707, ECO:0000269|PubMed:18713863,
+CC       ECO:0000269|PubMed:19398037, ECO:0000269|PubMed:21320436,
+CC       ECO:0000269|PubMed:25470059, ECO:0000269|PubMed:25517095,
+CC       ECO:0000269|PubMed:26245150, ECO:0000269|PubMed:27468892,
+CC       ECO:0000269|PubMed:27573175, ECO:0000269|PubMed:27662087,
+CC       ECO:0000269|PubMed:7669046, ECO:0000269|PubMed:9737879}.
+CC   -!- INTERACTION:
+CC       P11716; P62943: FKBP1A; NbExp=2; IntAct=EBI-6477441, EBI-16134925;
+CC       P11716; P11716: RYR1; NbExp=7; IntAct=EBI-6477441, EBI-6477441;
+CC       P11716; P28652: Camk2b; Xeno; NbExp=4; IntAct=EBI-6477441, EBI-397029;
+CC       P11716; P62942: FKBP1A; Xeno; NbExp=2; IntAct=EBI-6477441, EBI-1027571;
+CC       P11716; P68106-1: FKBP1B; Xeno; NbExp=2; IntAct=EBI-6477441, EBI-15766566;
+CC       P11716; P02639: S100A1; Xeno; NbExp=3; IntAct=EBI-6477441, EBI-6477285;
+CC   -!- SUBCELLULAR LOCATION: Sarcoplasmic reticulum membrane
+CC       {ECO:0000269|PubMed:12486242, ECO:0000269|PubMed:25517095,
+CC       ECO:0000269|PubMed:2725677, ECO:0000269|PubMed:27468892,
+CC       ECO:0000269|PubMed:27573175, ECO:0000269|PubMed:27662087,
+CC       ECO:0000269|PubMed:3722165}; Multi-pass membrane protein
+CC       {ECO:0000269|PubMed:25470059, ECO:0000269|PubMed:25517095,
+CC       ECO:0000269|PubMed:27468892, ECO:0000269|PubMed:27573175,
+CC       ECO:0000269|PubMed:27662087}. Sarcoplasmic reticulum
+CC       {ECO:0000269|PubMed:18713863}. Membrane {ECO:0000269|PubMed:12732639};
+CC       Multi-pass membrane protein {ECO:0000269|PubMed:25470059,
+CC       ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+CC       ECO:0000269|PubMed:27573175, ECO:0000269|PubMed:27662087}. Note=The
+CC       number of predicted transmembrane domains varies between orthologs, but
+CC       the 3D-structures show the presence of six transmembrane regions. Both
+CC       N-terminus and C-terminus are cytoplasmic.
+CC       {ECO:0000269|PubMed:12486242, ECO:0000269|PubMed:25470059,
+CC       ECO:0000269|PubMed:27468892, ECO:0000269|PubMed:27573175,
+CC       ECO:0000269|PubMed:27662087}.
+CC   -!- TISSUE SPECIFICITY: Detected in skeletal muscle (at protein level)
+CC       (PubMed:2725677, PubMed:3722165, PubMed:25470059, PubMed:25517095,
+CC       PubMed:27573175, PubMed:27468892). Fast- or slow-twitch skeletal
+CC       muscle. {ECO:0000269|PubMed:15908964, ECO:0000269|PubMed:25470059,
+CC       ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:2725677,
+CC       ECO:0000269|PubMed:27468892, ECO:0000269|PubMed:27573175,
+CC       ECO:0000269|PubMed:3722165, ECO:0000269|PubMed:7669046}.
+CC   -!- DOMAIN: The calcium release channel activity resides in the C-terminal
+CC       region while the remaining part of the protein constitutes the 'foot'
+CC       structure spanning the junctional gap between the sarcoplasmic
+CC       reticulum (SR) and the T-tubule (PubMed:2725677, PubMed:25517095,
+CC       PubMed:27662087, PubMed:27573175, PubMed:27468892). Pore opening is
+CC       mediated via the cytoplasmic calcium-binding domains that mediate a
+CC       small rotation of the channel-forming transmembrane regions that then
+CC       leads to channel opening (PubMed:27468892).
+CC       {ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:2725677,
+CC       ECO:0000269|PubMed:27468892, ECO:0000269|PubMed:27573175,
+CC       ECO:0000269|PubMed:27662087}.
+CC   -!- PTM: The N-terminus is blocked.
+CC   -!- PTM: Channel activity is modulated by phosphorylation. Phosphorylation
+CC       at Ser-2843 may increase channel activity. Repeated very high-level
+CC       exercise increases phosphorylation at Ser-2843.
+CC       {ECO:0000250|UniProtKB:P21817}.
+CC   -!- PTM: Activated by reversible S-nitrosylation (PubMed:22036948).
+CC       Repeated very high-level exercise increases S-nitrosylation (By
+CC       similarity). {ECO:0000250|UniProtKB:P21817,
+CC       ECO:0000269|PubMed:22036948}.
+CC   -!- MISCELLANEOUS: Coexpression of normal and mutant Thr-4897 RYR1 in a 1:1
+CC       ratio produces RYR1 channels with normal halothane and caffeine
+CC       sensitivities, but maximal levels of Ca(2+) release are reduced by 67%.
+CC       Binding of [3H]ryanodine indicates that the heterozygous channel is
+CC       activated by Ca(2+) concentrations 4-fold lower than normal. Single-
+CC       cell analysis of cotransfected cells shows a significantly increased
+CC       resting cytoplasmic Ca(2+) level and a significantly reduced luminal
+CC       Ca(2+) level. These data indicated a leaky channel, possibly caused by
+CC       a reduction in the Ca(2+) concentration required for channel
+CC       activation. {ECO:0000269|PubMed:10097181}.
+CC   -!- SIMILARITY: Belongs to the ryanodine receptor (TC 1.A.3.1) family. RYR1
+CC       subfamily. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X15209; CAA33279.1; -; mRNA.
+DR   EMBL; X15750; CAA33762.1; -; mRNA.
+DR   PIR; S04654; B35041.
+DR   RefSeq; NP_001095188.1; NM_001101718.1.
+DR   PDB; 2BCX; X-ray; 2.00 A; B=3614-3643.
+DR   PDB; 2XOA; X-ray; 2.50 A; A=1-559.
+DR   PDB; 3HSM; X-ray; 2.50 A; A/B=1-210.
+DR   PDB; 3ILA; X-ray; 2.90 A; A/B/C/D/E/F/G/H/I=9-205.
+DR   PDB; 3J8H; EM; 3.80 A; A/C/E/G=1-5037.
+DR   PDB; 3RQR; X-ray; 2.16 A; A=2733-2940.
+DR   PDB; 4ERT; X-ray; 1.95 A; A=2734-2940.
+DR   PDB; 4ESU; X-ray; 1.59 A; A=2734-2940.
+DR   PDB; 4ETT; X-ray; 2.20 A; A=2734-2940.
+DR   PDB; 4ETU; X-ray; 2.19 A; A=2734-2938.
+DR   PDB; 4I0Y; X-ray; 2.80 A; A=1-536.
+DR   PDB; 4I1E; X-ray; 2.40 A; A=1-536.
+DR   PDB; 4I2S; X-ray; 2.50 A; A=1-536.
+DR   PDB; 4I37; X-ray; 2.95 A; A=1-536.
+DR   PDB; 4I3N; X-ray; 2.95 A; A=1-536.
+DR   PDB; 4I6I; X-ray; 2.50 A; A=1-559.
+DR   PDB; 4I7I; X-ray; 2.90 A; A=1-536.
+DR   PDB; 4I8M; X-ray; 2.80 A; A=1-536.
+DR   PDB; 4I96; X-ray; 2.73 A; A=217-536.
+DR   PDB; 4P9J; X-ray; 1.84 A; A/B/C=1070-1246.
+DR   PDB; 4UWA; EM; 6.10 A; A/B/C/D=1-5037.
+DR   PDB; 4UWE; EM; 8.50 A; A/B/C/D=1-5037.
+DR   PDB; 5C30; X-ray; 1.55 A; A=857-1054.
+DR   PDB; 5GKY; EM; 3.80 A; A/C/E/G=1-5037.
+DR   PDB; 5GKZ; EM; 4.00 A; A/C/E/G=1-5037.
+DR   PDB; 5GL0; EM; 4.20 A; A/C/E/G=1-5037.
+DR   PDB; 5GL1; EM; 5.70 A; A/C/E/G=1-5037.
+DR   PDB; 5J8V; EM; 4.90 A; A/B/C/D=1-5037.
+DR   PDB; 5T15; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-5037.
+DR   PDB; 5T9M; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-5037.
+DR   PDB; 5T9N; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-5037.
+DR   PDB; 5T9R; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-5037.
+DR   PDB; 5T9S; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-5037.
+DR   PDB; 5T9V; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4540-5037.
+DR   PDB; 5TA3; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAL; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAM; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAN; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAP; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAQ; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAS; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAT; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAU; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAV; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAW; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAX; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAY; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TAZ; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TB0; EM; 3.80 A; B/E/G/I=1-5037.
+DR   PDB; 5TB1; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TB2; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TB3; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 5TB4; EM; 3.80 A; B/E/G/I=12-1275, B/E/G/I=1573-2479, B/E/G/I=2734-2939, B/E/G/I=3639-4253, B/E/G/I=4541-5037.
+DR   PDB; 6FG3; EM; 7.30 A; A/B/C/D=1-5037.
+DR   PDB; 6FOO; EM; 8.20 A; A/B/C/D=1-5037.
+DR   PDB; 6M2W; EM; 3.80 A; A/D/G/J=1-5037.
+DR   PDB; 6WOT; EM; 3.54 A; A/B/C/D=1-5037.
+DR   PDB; 7CF9; EM; 4.70 A; A/C/E/G=1-5037.
+DR   PDB; 7M6A; EM; 3.36 A; A/B/G/I=1-5037.
+DR   PDB; 7M6L; EM; 3.98 A; A/B/G/I=1-5037.
+DR   PDB; 7T64; EM; 4.00 A; A/B/C/D=1-5037.
+DR   PDB; 7T65; EM; 4.05 A; A/B/C/D=1-5037.
+DR   PDB; 7TDG; EM; 3.80 A; A/B/C/D=1-5037.
+DR   PDB; 7TDH; EM; 4.00 A; A/B/C/D=1-5037.
+DR   PDB; 7TDI; EM; 3.30 A; A/B/C/D=1-5037.
+DR   PDB; 7TDJ; EM; 3.70 A; A/B/C/D=1-5037.
+DR   PDB; 7TDK; EM; 3.80 A; A/B/C/D=1-5037.
+DR   PDB; 7TZC; EM; 2.45 A; A/B/G/I=1-5037.
+DR   PDBsum; 2BCX; -.
+DR   PDBsum; 2XOA; -.
+DR   PDBsum; 3HSM; -.
+DR   PDBsum; 3ILA; -.
+DR   PDBsum; 3J8H; -.
+DR   PDBsum; 3RQR; -.
+DR   PDBsum; 4ERT; -.
+DR   PDBsum; 4ESU; -.
+DR   PDBsum; 4ETT; -.
+DR   PDBsum; 4ETU; -.
+DR   PDBsum; 4I0Y; -.
+DR   PDBsum; 4I1E; -.
+DR   PDBsum; 4I2S; -.
+DR   PDBsum; 4I37; -.
+DR   PDBsum; 4I3N; -.
+DR   PDBsum; 4I6I; -.
+DR   PDBsum; 4I7I; -.
+DR   PDBsum; 4I8M; -.
+DR   PDBsum; 4I96; -.
+DR   PDBsum; 4P9J; -.
+DR   PDBsum; 4UWA; -.
+DR   PDBsum; 4UWE; -.
+DR   PDBsum; 5C30; -.
+DR   PDBsum; 5GKY; -.
+DR   PDBsum; 5GKZ; -.
+DR   PDBsum; 5GL0; -.
+DR   PDBsum; 5GL1; -.
+DR   PDBsum; 5J8V; -.
+DR   PDBsum; 5T15; -.
+DR   PDBsum; 5T9M; -.
+DR   PDBsum; 5T9N; -.
+DR   PDBsum; 5T9R; -.
+DR   PDBsum; 5T9S; -.
+DR   PDBsum; 5T9V; -.
+DR   PDBsum; 5TA3; -.
+DR   PDBsum; 5TAL; -.
+DR   PDBsum; 5TAM; -.
+DR   PDBsum; 5TAN; -.
+DR   PDBsum; 5TAP; -.
+DR   PDBsum; 5TAQ; -.
+DR   PDBsum; 5TAS; -.
+DR   PDBsum; 5TAT; -.
+DR   PDBsum; 5TAU; -.
+DR   PDBsum; 5TAV; -.
+DR   PDBsum; 5TAW; -.
+DR   PDBsum; 5TAX; -.
+DR   PDBsum; 5TAY; -.
+DR   PDBsum; 5TAZ; -.
+DR   PDBsum; 5TB0; -.
+DR   PDBsum; 5TB1; -.
+DR   PDBsum; 5TB2; -.
+DR   PDBsum; 5TB3; -.
+DR   PDBsum; 5TB4; -.
+DR   PDBsum; 6FG3; -.
+DR   PDBsum; 6FOO; -.
+DR   PDBsum; 6M2W; -.
+DR   PDBsum; 6WOT; -.
+DR   PDBsum; 7CF9; -.
+DR   PDBsum; 7M6A; -.
+DR   PDBsum; 7M6L; -.
+DR   PDBsum; 7T64; -.
+DR   PDBsum; 7T65; -.
+DR   PDBsum; 7TDG; -.
+DR   PDBsum; 7TDH; -.
+DR   PDBsum; 7TDI; -.
+DR   PDBsum; 7TDJ; -.
+DR   PDBsum; 7TDK; -.
+DR   PDBsum; 7TZC; -.
+DR   SMR; P11716; -.
+DR   BioGRID; 1172559; 3.
+DR   ComplexPortal; CPX-3136; Ryanodine 1 complex.
+DR   DIP; DIP-41872N; -.
+DR   IntAct; P11716; 8.
+DR   MINT; P11716; -.
+DR   BindingDB; P11716; -.
+DR   ChEMBL; CHEMBL3288; -.
+DR   iPTMnet; P11716; -.
+DR   SwissPalm; P11716; -.
+DR   GeneID; 100009540; -.
+DR   KEGG; ocu:100009540; -.
+DR   CTD; 6261; -.
+DR   InParanoid; P11716; -.
+DR   OrthoDB; 3144451at2759; -.
+DR   EvolutionaryTrace; P11716; -.
+DR   PRO; PR:P11716; -.
+DR   Proteomes; UP000001811; Unplaced.
+DR   GO; GO:0016020; C:membrane; IDA:UniProtKB.
+DR   GO; GO:0031090; C:organelle membrane; IDA:UniProtKB.
+DR   GO; GO:1990425; C:ryanodine receptor complex; IDA:UniProtKB.
+DR   GO; GO:0016529; C:sarcoplasmic reticulum; IDA:UniProtKB.
+DR   GO; GO:0033017; C:sarcoplasmic reticulum membrane; IDA:UniProtKB.
+DR   GO; GO:0014802; C:terminal cisterna; IDA:BHF-UCL.
+DR   GO; GO:0005524; F:ATP binding; IDA:UniProtKB.
+DR   GO; GO:0035381; F:ATP-gated ion channel activity; IDA:CAFA.
+DR   GO; GO:0005262; F:calcium channel activity; ISS:UniProtKB.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:UniProtKB.
+DR   GO; GO:0015278; F:calcium-release channel activity; IMP:AgBase.
+DR   GO; GO:0005516; F:calmodulin binding; IDA:BHF-UCL.
+DR   GO; GO:0097718; F:disordered domain specific binding; IPI:CAFA.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0005219; F:ryanodine-sensitive calcium-release channel activity; IDA:UniProtKB.
+DR   GO; GO:0015643; F:toxic substance binding; IDA:AgBase.
+DR   GO; GO:0044325; F:transmembrane transporter binding; IPI:BHF-UCL.
+DR   GO; GO:0005245; F:voltage-gated calcium channel activity; ISS:UniProtKB.
+DR   GO; GO:0070588; P:calcium ion transmembrane transport; IDA:UniProtKB.
+DR   GO; GO:0006874; P:cellular calcium ion homeostasis; IEA:InterPro.
+DR   GO; GO:0071313; P:cellular response to caffeine; IDA:UniProtKB.
+DR   GO; GO:0071277; P:cellular response to calcium ion; IDA:UniProtKB.
+DR   GO; GO:0006936; P:muscle contraction; ISS:UniProtKB.
+DR   GO; GO:0043931; P:ossification involved in bone maturation; ISS:UniProtKB.
+DR   GO; GO:0003151; P:outflow tract morphogenesis; ISS:UniProtKB.
+DR   GO; GO:0051289; P:protein homotetramerization; IDA:UniProtKB.
+DR   GO; GO:0051209; P:release of sequestered calcium ion into cytosol; IDA:CAFA.
+DR   GO; GO:0014808; P:release of sequestered calcium ion into cytosol by sarcoplasmic reticulum; IMP:UniProtKB.
+DR   GO; GO:0048741; P:skeletal muscle fiber development; ISS:UniProtKB.
+DR   GO; GO:0043588; P:skin development; ISS:UniProtKB.
+DR   CDD; cd12877; SPRY1_RyR; 1.
+DR   CDD; cd12878; SPRY2_RyR; 1.
+DR   CDD; cd12879; SPRY3_RyR; 1.
+DR   Gene3D; 1.10.287.70; -; 1.
+DR   Gene3D; 1.10.490.160; -; 2.
+DR   Gene3D; 2.60.120.920; -; 3.
+DR   Gene3D; 2.80.10.50; -; 2.
+DR   Gene3D; 6.20.350.10; -; 1.
+DR   Gene3D; 1.25.10.30; IP3 receptor type 1 binding core, RIH domain; 1.
+DR   InterPro; IPR001870; B30.2/SPRY.
+DR   InterPro; IPR043136; B30.2/SPRY_sf.
+DR   InterPro; IPR013320; ConA-like_dom_sf.
+DR   InterPro; IPR011992; EF-hand-dom_pair.
+DR   InterPro; IPR014821; Ins145_P3_rcpt.
+DR   InterPro; IPR005821; Ion_trans_dom.
+DR   InterPro; IPR036300; MIR_dom_sf.
+DR   InterPro; IPR016093; MIR_motif.
+DR   InterPro; IPR013662; RIH_assoc-dom.
+DR   InterPro; IPR000699; RIH_dom.
+DR   InterPro; IPR013333; Ryan_recept.
+DR   InterPro; IPR015925; Ryanodine_IP3_receptor.
+DR   InterPro; IPR003032; Ryanodine_rcpt.
+DR   InterPro; IPR009460; Ryanrecept_TM4-6.
+DR   InterPro; IPR035910; RyR/IP3R_RIH_dom_sf.
+DR   InterPro; IPR035761; SPRY1_RyR.
+DR   InterPro; IPR035764; SPRY2_RyR.
+DR   InterPro; IPR035762; SPRY3_RyR.
+DR   InterPro; IPR003877; SPRY_dom.
+DR   PANTHER; PTHR46399; B30.2/SPRY DOMAIN-CONTAINING PROTEIN; 1.
+DR   PANTHER; PTHR46399:SF10; RYANODINE RECEPTOR 1; 1.
+DR   Pfam; PF08709; Ins145_P3_rec; 1.
+DR   Pfam; PF00520; Ion_trans; 1.
+DR   Pfam; PF02815; MIR; 1.
+DR   Pfam; PF08454; RIH_assoc; 1.
+DR   Pfam; PF06459; RR_TM4-6; 1.
+DR   Pfam; PF01365; RYDR_ITPR; 2.
+DR   Pfam; PF02026; RyR; 4.
+DR   Pfam; PF00622; SPRY; 3.
+DR   PRINTS; PR00795; RYANODINER.
+DR   SMART; SM00472; MIR; 4.
+DR   SMART; SM00449; SPRY; 3.
+DR   SUPFAM; SSF49899; Concanavalin A-like lectins/glucanases; 3.
+DR   SUPFAM; SSF47473; EF-hand; 1.
+DR   SUPFAM; SSF100909; IP3 receptor type 1 binding core, domain 2; 1.
+DR   SUPFAM; SSF82109; MIR domain; 2.
+DR   PROSITE; PS50188; B302_SPRY; 3.
+DR   PROSITE; PS50919; MIR; 5.
+PE   1: Evidence at protein level;
+KW   3D-structure; ATP-binding; Calcium; Calcium channel; Calcium transport;
+KW   Calmodulin-binding; Developmental protein; Direct protein sequencing;
+KW   Ion channel; Ion transport; Ligand-gated ion channel; Membrane;
+KW   Metal-binding; Nucleotide-binding; Phosphoprotein; Receptor;
+KW   Reference proteome; Repeat; S-nitrosylation; Sarcoplasmic reticulum;
+KW   Transmembrane; Transmembrane helix; Transport.
+FT   CHAIN           1..5037
+FT                   /note="Ryanodine receptor 1"
+FT                   /id="PRO_0000219360"
+FT   TOPO_DOM        1..4558
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TRANSMEM        4559..4579
+FT                   /note="Helical; Name=1"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TOPO_DOM        4580..4640
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TRANSMEM        4641..4661
+FT                   /note="Helical; Name=2"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TOPO_DOM        4662..4779
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TRANSMEM        4780..4802
+FT                   /note="Helical; Name=3"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TOPO_DOM        4803
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TRANSMEM        4804..4820
+FT                   /note="Helical; Name=4"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TOPO_DOM        4821..4835
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TRANSMEM        4836..4856
+FT                   /note="Helical; Name=5"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TOPO_DOM        4857..4879
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   INTRAMEM        4880..4899
+FT                   /note="Pore-forming"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TOPO_DOM        4900..4919
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TRANSMEM        4920..4940
+FT                   /note="Helical; Name=6"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   TOPO_DOM        4941..5037
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000269|PubMed:25470059,
+FT                   ECO:0000269|PubMed:25517095, ECO:0000269|PubMed:27468892,
+FT                   ECO:0000269|PubMed:27573175"
+FT   DOMAIN          98..153
+FT                   /note="MIR 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00131"
+FT   DOMAIN          160..205
+FT                   /note="MIR 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00131"
+FT   DOMAIN          211..265
+FT                   /note="MIR 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00131"
+FT   DOMAIN          271..334
+FT                   /note="MIR 4"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00131"
+FT   DOMAIN          336..394
+FT                   /note="MIR 5"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00131"
+FT   DOMAIN          582..798
+FT                   /note="B30.2/SPRY 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00548"
+FT   REPEAT          842..955
+FT                   /note="1"
+FT   REPEAT          956..1069
+FT                   /note="2"
+FT   DOMAIN          1014..1209
+FT                   /note="B30.2/SPRY 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00548"
+FT   REPEAT          1345..1360
+FT                   /note="3; truncated"
+FT   DOMAIN          1358..1571
+FT                   /note="B30.2/SPRY 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00548"
+FT   REPEAT          1373..1388
+FT                   /note="4; truncated"
+FT   REPEAT          2726..2845
+FT                   /note="5"
+FT   REPEAT          2846..2959
+FT                   /note="6"
+FT   DOMAIN          4075..4103
+FT                   /note="EF-hand"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00448,
+FT                   ECO:0000269|PubMed:27573175"
+FT   REGION          670..681
+FT                   /note="Interaction with FKBP1A"
+FT                   /evidence="ECO:0000269|PubMed:26245150"
+FT   REGION          842..2959
+FT                   /note="6 X approximate repeats"
+FT   REGION          1308..1383
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          1867..1922
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          2390..2412
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          2828..2858
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          3478..3501
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          3614..3643
+FT                   /note="Interaction with CALM"
+FT   REGION          4252..4282
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          4381..4534
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          4588..4620
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOTIF           4894..4900
+FT                   /note="Selectivity filter"
+FT                   /evidence="ECO:0000305|PubMed:25517095,
+FT                   ECO:0000305|PubMed:27573175, ECO:0000305|PubMed:27662087"
+FT   COMPBIAS        1870..1920
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        2828..2843
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        4255..4270
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        4484..4504
+FT                   /note="Acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   BINDING         3893
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000305|PubMed:27662087,
+FT                   ECO:0007744|PDB:5TA3, ECO:0007744|PDB:5TAL,
+FT                   ECO:0007744|PDB:5TAM, ECO:0007744|PDB:5TAN"
+FT   BINDING         3967
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000305|PubMed:27662087,
+FT                   ECO:0007744|PDB:5TA3, ECO:0007744|PDB:5TAL,
+FT                   ECO:0007744|PDB:5TAM, ECO:0007744|PDB:5TAN"
+FT   BINDING         4211..4215
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000305|PubMed:27662087,
+FT                   ECO:0007744|PDB:5T9V, ECO:0007744|PDB:5TA3,
+FT                   ECO:0007744|PDB:5TAL, ECO:0007744|PDB:5TAM,
+FT                   ECO:0007744|PDB:5TAN, ECO:0007744|PDB:5TAS,
+FT                   ECO:0007744|PDB:5TAT, ECO:0007744|PDB:5TAU"
+FT   BINDING         4716
+FT                   /ligand="caffeine"
+FT                   /ligand_id="ChEBI:CHEBI:27732"
+FT                   /evidence="ECO:0000305|PubMed:27662087,
+FT                   ECO:0007744|PDB:5TAN"
+FT   BINDING         4954..4959
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000305|PubMed:27662087,
+FT                   ECO:0007744|PDB:5T9V, ECO:0007744|PDB:5TA3,
+FT                   ECO:0007744|PDB:5TAL, ECO:0007744|PDB:5TAM,
+FT                   ECO:0007744|PDB:5TAN, ECO:0007744|PDB:5TAS,
+FT                   ECO:0007744|PDB:5TAT, ECO:0007744|PDB:5TAU"
+FT   BINDING         4979..4985
+FT                   /ligand="ATP"
+FT                   /ligand_id="ChEBI:CHEBI:30616"
+FT                   /evidence="ECO:0000305|PubMed:27662087,
+FT                   ECO:0007744|PDB:5T9V, ECO:0007744|PDB:5TA3,
+FT                   ECO:0007744|PDB:5TAL, ECO:0007744|PDB:5TAM,
+FT                   ECO:0007744|PDB:5TAN, ECO:0007744|PDB:5TAS,
+FT                   ECO:0007744|PDB:5TAT, ECO:0007744|PDB:5TAU"
+FT   BINDING         5001
+FT                   /ligand="Ca(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29108"
+FT                   /evidence="ECO:0000305|PubMed:27662087,
+FT                   ECO:0007744|PDB:5TA3, ECO:0007744|PDB:5TAL,
+FT                   ECO:0007744|PDB:5TAM, ECO:0007744|PDB:5TAN"
+FT   MOD_RES         1338
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:F1LMY4"
+FT   MOD_RES         2345
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:F1LMY4"
+FT   MOD_RES         2843
+FT                   /note="Phosphoserine; by PKA and PKG"
+FT                   /evidence="ECO:0000269|PubMed:8380342"
+FT   MOD_RES         3635
+FT                   /note="S-nitrosocysteine"
+FT                   /evidence="ECO:0000269|PubMed:10601232,
+FT                   ECO:0000269|PubMed:11562475, ECO:0000269|PubMed:22036948"
+FT   MOD_RES         4466
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:F1LMY4"
+FT   MOD_RES         4470
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:F1LMY4"
+FT   MOD_RES         4863
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000250|UniProtKB:P21817"
+FT   MOD_RES         4866
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P21817"
+FT   MUTAGEN         164
+FT                   /note="R->C: Decreases threshold for channel activation by
+FT                   K(+), caffeine and 4-chloro-m-cresol. Decreases inhibition
+FT                   by Mg(2+)."
+FT                   /evidence="ECO:0000269|PubMed:12732639"
+FT   MUTAGEN         342
+FT                   /note="G->R: Decreases threshold for channel activation by
+FT                   K(+), caffeine and 4-chloro-m-cresol. Decreases inhibition
+FT                   by Mg(2+)."
+FT                   /evidence="ECO:0000269|PubMed:12732639"
+FT   MUTAGEN         615
+FT                   /note="R->C: Decreases threshold for channel activation by
+FT                   K(+), caffeine and 4-chloro-m-cresol. Decreases inhibition
+FT                   by Mg(2+)."
+FT                   /evidence="ECO:0000269|PubMed:12732639"
+FT   MUTAGEN         674..675
+FT                   /note="FL->AA: Loss of interaction with FKBP1A."
+FT                   /evidence="ECO:0000269|PubMed:26245150"
+FT   MUTAGEN         760
+FT                   /note="N->D: Impairs interaction with FKBP1A."
+FT                   /evidence="ECO:0000269|PubMed:26245150"
+FT   MUTAGEN         1044
+FT                   /note="R->C: Decreases protein stability."
+FT                   /evidence="ECO:0000269|PubMed:26245150"
+FT   MUTAGEN         1050
+FT                   /note="G->S: Decreases protein stability."
+FT                   /evidence="ECO:0000269|PubMed:26245150"
+FT   MUTAGEN         1076
+FT                   /note="R->W: Decreases protein stability."
+FT                   /evidence="ECO:0000269|PubMed:25370123"
+FT   MUTAGEN         2163
+FT                   /note="R->C: Decreases threshold for channel activation by
+FT                   K(+), caffeine and 4-chloro-m-cresol. Decreases inhibition
+FT                   by Mg(2+)."
+FT                   /evidence="ECO:0000269|PubMed:12732639"
+FT   MUTAGEN         2168
+FT                   /note="V->M: Decreases threshold for channel activation by
+FT                   K(+), caffeine and 4-chloro-m-cresol. Decreases inhibition
+FT                   by Mg(2+)."
+FT                   /evidence="ECO:0000269|PubMed:12732639"
+FT   MUTAGEN         2458
+FT                   /note="R->H: Decreases threshold for channel activation by
+FT                   K(+), caffeine and 4-chloro-m-cresol. Decreases inhibition
+FT                   by Mg(2+)."
+FT                   /evidence="ECO:0000269|PubMed:12732639"
+FT   MUTAGEN         2461
+FT                   /note="V->G: Impairs interaction with FKBP1A."
+FT                   /evidence="ECO:0000269|PubMed:26245150"
+FT   MUTAGEN         2867
+FT                   /note="L->G: Decreases protein stability."
+FT                   /evidence="ECO:0000269|PubMed:22705209"
+FT   MUTAGEN         3635
+FT                   /note="C->A: Abolishes S-nitrosocysteine formation."
+FT                   /evidence="ECO:0000269|PubMed:11562475,
+FT                   ECO:0000269|PubMed:22036948"
+FT   MUTAGEN         4825
+FT                   /note="T->I: Decreases threshold for channel activation by
+FT                   K(+), caffeine and 4-chloro-m-cresol. Decreases inhibition
+FT                   by Mg(2+)."
+FT                   /evidence="ECO:0000269|PubMed:12732639"
+FT   MUTAGEN         4897
+FT                   /note="I->T: Loss of channel activation by halothane and
+FT                   caffeine due to Ca(2+) store depletion, probably due to
+FT                   constant Ca(2+) leakage through the mutant channel."
+FT                   /evidence="ECO:0000269|PubMed:10097181"
+FT   CONFLICT        2015
+FT                   /note="E -> D (in Ref. 2; no nucleotide entry)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        3481..3485
+FT                   /note="Missing (in Ref. 2; no nucleotide entry)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          19..28
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          31..38
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          42..44
+FT                   /evidence="ECO:0007829|PDB:3HSM"
+FT   STRAND          48..51
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   TURN            53..57
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   TURN            63..65
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          67..73
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           75..83
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          106..111
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   TURN            112..114
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          117..120
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          133..140
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           144..146
+FT                   /evidence="ECO:0007829|PDB:4I6I"
+FT   STRAND          147..154
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          164..166
+FT                   /evidence="ECO:0007829|PDB:3ILA"
+FT   STRAND          168..173
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   TURN            174..176
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          179..183
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          186..188
+FT                   /evidence="ECO:0007829|PDB:4I8M"
+FT   STRAND          190..196
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          200..206
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          219..223
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          225..233
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   TURN            239..242
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          245..250
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           251..254
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           256..258
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          260..265
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   TURN            268..271
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          280..284
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   TURN            285..287
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          290..294
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   TURN            295..297
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          298..302
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           304..306
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           309..312
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          314..319
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          332..334
+FT                   /evidence="ECO:0007829|PDB:2XOA"
+FT   TURN            341..343
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          346..350
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   TURN            351..353
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          356..359
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          373..381
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          388..392
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           395..420
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   TURN            421..423
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           438..451
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           461..480
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           483..494
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   STRAND          497..499
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           500..504
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           509..512
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           515..530
+FT                   /evidence="ECO:0007829|PDB:4I1E"
+FT   HELIX           865..867
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   HELIX           868..888
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   TURN            899..902
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   HELIX           910..912
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   HELIX           915..934
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   STRAND          939..941
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   HELIX           946..949
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   HELIX           957..959
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   HELIX           979..990
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   STRAND          994..997
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   TURN            998..1001
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   STRAND          1002..1005
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   STRAND          1021..1023
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   HELIX           1024..1026
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   HELIX           1029..1048
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   STRAND          1051..1053
+FT                   /evidence="ECO:0007829|PDB:5C30"
+FT   STRAND          1073..1075
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   HELIX           1079..1081
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   STRAND          1083..1096
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   STRAND          1098..1105
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   STRAND          1121..1125
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   TURN            1126..1129
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   STRAND          1130..1140
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   STRAND          1148..1154
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   TURN            1155..1158
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   STRAND          1159..1164
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   STRAND          1178..1181
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   STRAND          1188..1194
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   STRAND          1200..1203
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   HELIX           1208..1210
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   TURN            1214..1222
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   HELIX           1226..1229
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   HELIX           1242..1244
+FT                   /evidence="ECO:0007829|PDB:4P9J"
+FT   HELIX           2749..2751
+FT                   /evidence="ECO:0007829|PDB:4ESU"
+FT   HELIX           2752..2772
+FT                   /evidence="ECO:0007829|PDB:4ESU"
+FT   TURN            2783..2786
+FT                   /evidence="ECO:0007829|PDB:4ESU"
+FT   HELIX           2794..2796
+FT                   /evidence="ECO:0007829|PDB:4ESU"
+FT   HELIX           2799..2818
+FT                   /evidence="ECO:0007829|PDB:4ESU"
+FT   STRAND          2822..2825
+FT                   /evidence="ECO:0007829|PDB:4ESU"
+FT   HELIX           2862..2864
+FT                   /evidence="ECO:0007829|PDB:4ETT"
+FT   HELIX           2869..2897
+FT                   /evidence="ECO:0007829|PDB:4ESU"
+FT   HELIX           2908..2910
+FT                   /evidence="ECO:0007829|PDB:4ESU"
+FT   HELIX           2913..2932
+FT                   /evidence="ECO:0007829|PDB:4ESU"
+FT   STRAND          2935..2938
+FT                   /evidence="ECO:0007829|PDB:4ESU"
+FT   HELIX           3617..3638
+FT                   /evidence="ECO:0007829|PDB:2BCX"
+SQ   SEQUENCE   5037 AA;  565253 MW;  4ABD87AA26697070 CRC64;
+     MGDGGEGEDE VQFLRTDDEV VLQCSATVLK EQLKLCLAAE GFGNRLCFLE PTSNAQNVPP
+     DLAICCFTLE QSLSVRALQE MLANTVEAGV ESSQGGGHRT LLYGHAILLR HAHSRMYLSC
+     LTTSRSMTDK LAFDVGLQED ATGEACWWTM HPASKQRSEG EKVRVGDDLI LVSVSSERYL
+     HLSTASGELQ VDASFMQTLW NMNPICSCCE EGYVTGGHVL RLFHGHMDEC LTISAADSDD
+     QRRLVYYEGG AVCTHARSLW RLEPLRISWS GSHLRWGQPL RIRHVTTGRY LALTEDQGLV
+     VVDACKAHTK ATSFCFRVSK EKLDTAPKRD VEGMGPPEIK YGESLCFVQH VASGLWLTYA
+     APDPKALRLG VLKKKAILHQ EGHMDDALFL TRCQQEESQA ARMIHSTAGL YNQFIKGLDS
+     FSGKPRGSGP PAGPALPIEA VILSLQDLIG YFEPPSEELQ HEEKQSKLRS LRNRQSLFQE
+     EGMLSLVLNC IDRLNVYTTA AHFAEYAGEE AAESWKEIVN LLYELLASLI RGNRANCALF
+     STNLDWVVSK LDRLEASSGI LEVLYCVLIE SPEVLNIIQE NHIKSIISLL DKHGRNHKVL
+     DVLCSLCVCN GVAVRSNQDL ITENLLPGRE LLLQTNLINY VTSIRPNIFV GRAEGSTQYG
+     KWYFEVMVDE VVPFLTAQAT HLRVGWALTE GYSPYPGGGE GWGGNGVGDD LYSYGFDGLH
+     LWTGHVARPV TSPGQHLLAP EDVVSCCLDL SVPSISFRIN GCPVQGVFEA FNLDGLFFPV
+     VSFSAGVKVR FLLGGRHGEF KFLPPPGYAP CHEAVLPRER LRLEPIKEYR REGPRGPHLV
+     GPSRCLSHTD FVPCPVDTVQ IVLPPHLERI REKLAENIHE LWALTRIEQG WTYGPVRDDN
+     KRLHPCLVNF HSLPEPERNY NLQMSGETLK TLLALGCHVG MADEKAEDNL KKTKLPKTYM
+     MSNGYKPAPL DLSHVRLTPA QTTLVDRLAE NGHNVWARDR VAQGWSYSAV QDIPARRNPR
+     LVPYRLLDEA TKRSNRDSLC QAVRTLLGYG YNIEPPDQEP SQVENQSRWD RVRIFRAEKS
+     YTVQSGRWYF EFEAVTTGEM RVGWARPELR PDVELGADEL AYVFNGHRGQ RWHLGSEPFG
+     RPWQSGDVVG CMIDLTENTI IFTLNGEVLM SDSGSETAFR EIEIGDGFLP VCSLGPGQVG
+     HLNLGQDVSS LRFFAICGLQ EGFEPFAINM QRPVTTWFSK SLPQFEPVPP EHPHYEVARM
+     DGTVDTPPCL RLAHRTWGSQ NSLVEMLFLR LSLPVQFHQH FRCTAGATPL APPGLQPPAE
+     DEARAAEPDP DYENLRRSAG GWGEAEGGKE GTAKEGTPGG TPQPGVEAQP VRAENEKDAT
+     TEKNKKRGFL FKAKKAAMMT QPPATPALPR LPHDVVPADN RDDPEIILNT TTYYYSVRVF
+     AGQEPSCVWV GWVTPDYHQH DMNFDLSKVR AVTVTMGDEQ GNVHSSLKCS NCYMVWGGDF
+     VSPGQQGRIS HTDLVIGCLV DLATGLMTFT ANGKESNTFF QVEPNTKLFP AVFVLPTHQN
+     VIQFELGKQK NIMPLSAAMF LSERKNPAPQ CPPRLEVQML MPVSWSRMPN HFLQVETRRA
+     GERLGWAVQC QDPLTMMALH IPEENRCMDI LELSERLDLQ RFHSHTLRLY RAVCALGNNR
+     VAHALCSHVD QAQLLHALED AHLPGPLRAG YYDLLISIHL ESACRSRRSM LSEYIVPLTP
+     ETRAITLFPP GRKGGNARRH GLPGVGVTTS LRPPHHFSPP CFVAALPAAG VAEAPARLSP
+     AIPLEALRDK ALRMLGEAVR DGGQHARDPV GGSVEFQFVP VLKLVSTLLV MGIFGDEDVK
+     QILKMIEPEV FTEEEEEEEE EEEEEEEEEE DEEEKEEDEE EEEKEDAEKE EEEAPEGEKE
+     DLEEGLLQMK LPESVKLQMC NLLEYFCDQE LQHRVESLAA FAERYVDKLQ ANQRSRYALL
+     MRAFTMSAAE TARRTREFRS PPQEQINMLL HFKDEADEED CPLPEDIRQD LQDFHQDLLA
+     HCGIQLEGEE EEPEEETSLS SRLRSLLETV RLVKKKEEKP EEELPAEEKK PQSLQELVSH
+     MVVRWAQEDY VQSPELVRAM FSLLHRQYDG LGELLRALPR AYTISPSSVE DTMSLLECLG
+     QIRSLLIVQM GPQEENLMIQ SIGNIMNNKV FYQHPNLMRA LGMHETVMEV MVNVLGGGET
+     KEIRFPKMVT SCCRFLCYFC RISRQNQRSM FDHLSYLLEN SGIGLGMQGS TPLDVAAASV
+     IDNNELALAL QEQDLEKVVS YLAGCGLQSC PMLLAKGYPD IGWNPCGGER YLDFLRFAVF
+     VNGESVEENA NVVVRLLIRK PECFGPALRG EGGSGLLAAI EEAIRISEDP ARDGPGVRRD
+     RRREHFGEEP PEENRVHLGH AIMSFYAALI DLLGRCAPEM HLIQAGKGEA LRIRAILRSL
+     VPLDDLVGII SLPLQIPTLG KDGALVQPKM SASFVPDHKA SMVLFLDRVY GIENQDFLLH
+     VLDVGFLPDM RAAASLDTAT FSTTEMALAL NRYLCLAVLP LITKCAPLFA GTEHRAIMVD
+     SMLHTVYRLS RGRSLTKAQR DVIEDCLMAL CRYIRPSMLQ HLLRRLVFDV PILNEFAKMP
+     LKLLTNHYER CWKYYCLPTG WANFGVTSEE ELHLTRKLFW GIFDSLAHKK YDQELYRMAM
+     PCLCAIAGAL PPDYVDASYS SKAEKKATVD AEGNFDPRPV ETLNVIIPEK LDSFINKFAE
+     YTHEKWAFDK IQNNWSYGEN VDEELKTHPM LRPYKTFSEK DKEIYRWPIK ESLKAMIAWE
+     WTIEKAREGE EERTEKKKTR KISQTAQTYD PREGYNPQPP DLSGVTLSRE LQAMAEQLAE
+     NYHNTWGRKK KQELEAKGGG THPLLVPYDT LTAKEKARDR EKAQELLKFL QMNGYAVTRG
+     LKDMELDTSS IEKRFAFGFL QQLLRWMDIS QEFIAHLEAV VSSGRVEKSP HEQEIKFFAK
+     ILLPLINQYF TNHCLYFLST PAKVLGSGGH ASNKEKEMIT SLFCKLAALV RHRVSLFGTD
+     APAVVNCLHI LARSLDARTV MKSGPEIVKA GLRSFFESAS EDIEKMVENL RLGKVSQART
+     QVKGVGQNLT YTTVALLPVL TTLFQHIAQH QFGDDVILDD VQVSCYRTLC SIYSLGTTKN
+     TYVEKLRPAL GECLARLAAA MPVAFLEPQL NEYNACSVYT TKSPRERAIL GLPNSVEEMC
+     PDIPVLDRLM ADIGGLAESG ARYTEMPHVI EITLPMLCSY LPRWWERGPE APPPALPAGA
+     PPPCTAVTSD HLNSLLGNIL RIIVNNLGID EATWMKRLAV FAQPIVSRAR PELLHSHFIP
+     TIGRLRKRAG KVVAEEEQLR LEAKAEAEEG ELLVRDEFSV LCRDLYALYP LLIRYVDNNR
+     AHWLTEPNAN AEELFRMVGE IFIYWSKSHN FKREEQNFVV QNEINNMSFL TADSKSKMAK
+     AGDAQSGGSD QERTKKKRRG DRYSVQTSLI VATLKKMLPI GLNMCAPTDQ DLIMLAKTRY
+     ALKDTDEEVR EFLQNNLHLQ GKVEGSPSLR WQMALYRGLP GREEDADDPE KIVRRVQEVS
+     AVLYHLEQTE HPYKSKKAVW HKLLSKQRRR AVVACFRMTP LYNLPTHRAC NMFLESYKAA
+     WILTEDHSFE DRMIDDLSKA GEQEEEEEEV EEKKPDPLHQ LVLHFSRTAL TEKSKLDEDY
+     LYMAYADIMA KSCHLEEGGE NGEAEEEEVE VSFEEKEMEK QRLLYQQSRL HTRGAAEMVL
+     QMISACKGET GAMVSSTLKL GISILNGGNA EVQQKMLDYL KDKKEVGFFQ SIQALMQTCS
+     VLDLNAFERQ NKAEGLGMVN EDGTVINRQN GEKVMADDEF TQDLFRFLQL LCEGHNNDFQ
+     NYLRTQTGNT TTINIIICTV DYLLRLQESI SDFYWYYSGK DVIEEQGKRN FSKAMSVAKQ
+     VFNSLTEYIQ GPCTGNQQSL AHSRLWDAVV GFLHVFAHMM MKLAQDSSQI ELLKELLDLQ
+     KDMVVMLLSL LEGNVVNGMI ARQMVDMLVE SSSNVEMILK FFDMFLKLKD IVGSEAFQDY
+     VTDPRGLISK KDFQKAMDSQ KQFTGPEIQF LLSCSEADEN EMINFEEFAN RFQEPARDIG
+     FNVAVLLTNL SEHVPHDPRL RNFLELAESI LEYFRPYLGR IEIMGASRRI ERIYFEISET
+     NRAQWEMPQV KESKRQFIFD VVNEGGEAEK MELFVSFCED TIFEMQIAAQ ISEPEGEPEA
+     DEDEGMGEAA AEGAEEGAAG AEGAAGTVAA GATARLAAAA ARALRGLSYR SLRRRVRRLR
+     RLTAREAATA LAALLWAVVA RAGAAGAGAA AGALRLLWGS LFGGGLVEGA KKVTVTELLA
+     GMPDPTSDEV HGEQPAGPGG DADGAGEGEG EGDAAEGDGD EEVAGHEAGP GGAEGVVAVA
+     DGGPFRPEGA GGLGDMGDTT PAEPPTPEGS PILKRKLGVD GEEEELVPEP EPEPEPEPEK
+     ADEENGEKEE VPEAPPEPPK KAPPSPPAKK EEAGGAGMEF WGELEVQRVK FLNYLSRNFY
+     TLRFLALFLA FAINFILLFY KVSDSPPGED DMEGSAAGDL AGAGSGGGSG WGSGAGEEAE
+     GDEDENMVYY FLEESTGYME PALWCLSLLH TLVAFLCIIG YNCLKVPLVI FKREKELARK
+     LEFDGLYITE QPGDDDVKGQ WDRLVLNTPS FPSNYWDKFV KRKVLDKHGD IFGRERIAEL
+     LGMDLASLEI TAHNERKPDP PPGLLTWLMS IDVKYQIWKF GVIFTDNSFL YLGWYMVMSL
+     LGHYNNFFFA AHLLDIAMGV KTLRTILSSV THNGKQLVMT VGLLAVVVYL YTVVAFNFFR
+     KFYNKSEDED EPDMKCDDMM TCYLFHMYVG VRAGGGIGDE IEDPAGDEYE LYRVVFDITF
+     FFFVIVILLA IIQGLIIDAF GELRDQQEQV KEDMETKCFI CGIGSDYFDT TPHGFETHTL
+     EEHNLANYMF FLMYLINKDE TEHTGQESYV WKMYQERCWD FFPAGDCFRK QYEDQLS
+//

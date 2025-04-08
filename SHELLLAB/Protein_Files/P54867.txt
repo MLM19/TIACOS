@@ -1,0 +1,324 @@
+ID   SLG1_YEAST              Reviewed;         378 AA.
+AC   P54867; D6W274;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   22-FEB-2023, entry version 169.
+DE   RecName: Full=Protein SLG1;
+DE   AltName: Full=Cell wall integrity and stress response component 1;
+DE   AltName: Full=Synthetic lethal with GAP protein 1;
+DE   Flags: Precursor;
+GN   Name=SLG1; Synonyms=WSC1; OrderedLocusNames=YOR008C; ORFNames=UNF378;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes;
+OC   Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   de Bettignies G., Bergez-Aullo P., Barthe C., Louvet O., Peypouquet M.-F.,
+RA   Morel C., Doignon F., Crouzet M.;
+RL   Submitted (OCT-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8896276;
+RX   DOI=10.1002/(sici)1097-0061(199609)12:10b<1091::aid-yea22>3.0.co;2-i;
+RA   Sterky F., Holmberg A., Pettersson B., Uhlen M.;
+RT   "The sequence of a 30 kb fragment on the left arm of chromosome XV from
+RT   Saccharomyces cerevisiae reveals 15 open reading frames, five of which
+RT   correspond to previously identified genes.";
+RL   Yeast 12:1091-1095(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169874;
+RA   Dujon B., Albermann K., Aldea M., Alexandraki D., Ansorge W., Arino J.,
+RA   Benes V., Bohn C., Bolotin-Fukuhara M., Bordonne R., Boyer J., Camasses A.,
+RA   Casamayor A., Casas C., Cheret G., Cziepluch C., Daignan-Fornier B.,
+RA   Dang V.-D., de Haan M., Delius H., Durand P., Fairhead C., Feldmann H.,
+RA   Gaillon L., Galisson F., Gamo F.-J., Gancedo C., Goffeau A., Goulding S.E.,
+RA   Grivell L.A., Habbig B., Hand N.J., Hani J., Hattenhorst U., Hebling U.,
+RA   Hernando Y., Herrero E., Heumann K., Hiesel R., Hilger F., Hofmann B.,
+RA   Hollenberg C.P., Hughes B., Jauniaux J.-C., Kalogeropoulos A.,
+RA   Katsoulou C., Kordes E., Lafuente M.J., Landt O., Louis E.J., Maarse A.C.,
+RA   Madania A., Mannhaupt G., Marck C., Martin R.P., Mewes H.-W., Michaux G.,
+RA   Paces V., Parle-McDermott A.G., Pearson B.M., Perrin A., Pettersson B.,
+RA   Poch O., Pohl T.M., Poirey R., Portetelle D., Pujol A., Purnelle B.,
+RA   Ramezani Rad M., Rechmann S., Schwager C., Schweizer M., Sor F., Sterky F.,
+RA   Tarassov I.A., Teodoru C., Tettelin H., Thierry A., Tobiasch E.,
+RA   Tzermia M., Uhlen M., Unseld M., Valens M., Vandenbol M., Vetter I.,
+RA   Vlcek C., Voet M., Volckaert G., Voss H., Wambutt R., Wedler H.,
+RA   Wiemann S., Winsor B., Wolfe K.H., Zollner A., Zumstein E., Kleine K.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+RL   Nature 387:98-102(1997).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M., Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   IDENTIFICATION.
+RX   PubMed=9613583; DOI=10.1007/s004380050717;
+RA   Jacoby J.J., Nilius S.M., Heinisch J.J.;
+RT   "A screen for upstream components of the yeast protein kinase C signal
+RT   transduction pathway identifies the product of the SLG1 gene.";
+RL   Mol. Gen. Genet. 258:148-155(1998).
+RN   [6]
+RP   FUNCTION, SUBCELLULAR LOCATION, GLYCOSYLATION, AND PHOSPHORYLATION.
+RX   PubMed=10430578; DOI=10.1093/genetics/152.4.1487;
+RA   Lodder A.L., Lee T.K., Ballester R.;
+RT   "Characterization of the Wsc1 protein, a putative receptor in the stress
+RT   response of Saccharomyces cerevisiae.";
+RL   Genetics 152:1487-1499(1999).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=10660075; DOI=10.1007/pl00008657;
+RA   Ivanovska I., Rose M.D.;
+RT   "SLG1 plays a role during G1 in the decision to enter or exit the cell
+RT   cycle.";
+RL   Mol. Gen. Genet. 262:1147-1156(2000).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=11113201; DOI=10.1128/mcb.21.1.271-280.2001;
+RA   Philip B., Levin D.E.;
+RT   "Wsc1 and Mid2 are cell surface sensors for cell wall integrity signaling
+RT   that act through Rom2, a guanine nucleotide exchange factor for Rho1.";
+RL   Mol. Cell. Biol. 21:271-280(2001).
+RN   [9]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=12399379; DOI=10.1093/genetics/162.2.663;
+RA   Sekiya-Kawasaki M., Abe M., Saka A., Watanabe D., Kono K.,
+RA   Minemura-Asakawa M., Ishihara S., Watanabe T., Ohya Y.;
+RT   "Dissection of upstream regulatory components of the Rho1p effector, 1,3-
+RT   beta-glucan synthase, in Saccharomyces cerevisiae.";
+RL   Genetics 162:663-676(2002).
+RN   [10]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A., Dephoure N.,
+RA   O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [11]
+RP   PHOSPHORYLATION, AND MUTAGENESIS OF SER-319; SER-320; SER-322 AND SER-323.
+RX   PubMed=15470108; DOI=10.1099/mic.0.27264-0;
+RA   Vay H.A., Philip B., Levin D.E.;
+RT   "Mutational analysis of the cytoplasmic domain of the Wsc1 cell wall stress
+RT   sensor.";
+RL   Microbiology 150:3281-3288(2004).
+RN   [12]
+RP   FUNCTION.
+RX   PubMed=15484288; DOI=10.1002/yea.1155;
+RA   Gualtieri T., Ragni E., Mizzi L., Fascio U., Popolo L.;
+RT   "The cell wall sensor Wsc1p is involved in reorganization of actin
+RT   cytoskeleton in response to hypo-osmotic shock in Saccharomyces
+RT   cerevisiae.";
+RL   Yeast 21:1107-1120(2004).
+RN   [13]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-353, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=YAL6B;
+RX   PubMed=15665377; DOI=10.1074/mcp.m400219-mcp200;
+RA   Gruhler A., Olsen J.V., Mohammed S., Mortensen P., Faergeman N.J., Mann M.,
+RA   Jensen O.N.;
+RT   "Quantitative phosphoproteomics applied to the yeast pheromone signaling
+RT   pathway.";
+RL   Mol. Cell. Proteomics 4:310-327(2005).
+RN   [14]
+RP   NULL MUTANT, DELETION MUTANTS, AND MUTAGENESIS OF TYR-303.
+RX   PubMed=17088254; DOI=10.1074/jbc.m604497200;
+RA   Serrano R., Martin H., Casamayor A., Arino J.;
+RT   "Signaling alkaline pH stress in the yeast Saccharomyces cerevisiae through
+RT   the Wsc1 cell surface sensor and the Slt2 MAPK pathway.";
+RL   J. Biol. Chem. 281:39785-39795(2006).
+RN   [15]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-353, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ADR376;
+RX   PubMed=17330950; DOI=10.1021/pr060559j;
+RA   Li X., Gerber S.A., Rudner A.D., Beausoleil S.A., Haas W., Villen J.,
+RA   Elias J.E., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of alpha-factor-arrested
+RT   Saccharomyces cerevisiae.";
+RL   J. Proteome Res. 6:1190-1197(2007).
+RN   [16]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-331, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.m700468-mcp200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth phosphoproteome
+RT   analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-353, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19779198; DOI=10.1126/science.1172867;
+RA   Holt L.J., Tuch B.B., Villen J., Johnson A.D., Gygi S.P., Morgan D.O.;
+RT   "Global analysis of Cdk1 substrate phosphorylation sites provides insights
+RT   into evolution.";
+RL   Science 325:1682-1686(2009).
+CC   -!- FUNCTION: Plays a role during G1 to regulate entering or exiting the
+CC       cell cycle. Involved in stress responses. Has a role in cell wall
+CC       integrity signaling. Activates ROM1 or ROM2 catalyzed guanine
+CC       nucleotide exchange toward RHO1. Important regulator of the actin
+CC       cytoskeleton rearrangements in conditions of cell wall expansion and
+CC       membrane stretching. Specifically required for the actin reorganization
+CC       induced by hypo-osmotic shock. Multicopy suppressor of 1,3-beta-glucan
+CC       synthase (GS). Activates GS upstream of RHO1. Acts positively on the
+CC       PKC1-MAPK pathway. Activates transiently SLT2 during alkaline stress,
+CC       which leads to an increase in the expression of several specific genes.
+CC       {ECO:0000269|PubMed:10430578, ECO:0000269|PubMed:10660075,
+CC       ECO:0000269|PubMed:11113201, ECO:0000269|PubMed:12399379,
+CC       ECO:0000269|PubMed:15484288}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:10430578};
+CC       Single-pass type I membrane protein {ECO:0000269|PubMed:10430578}.
+CC   -!- PTM: Glycosylated. Phosphorylated. Phosphorylation serves a negative
+CC       regulatory role. {ECO:0000269|PubMed:10430578,
+CC       ECO:0000269|PubMed:15470108}.
+CC   -!- DISRUPTION PHENOTYPE: Lack of SLG1 leads to a significant defect of
+CC       1,3-beta-glucan synthesis and confers sensitivity to caffeine, SDS,
+CC       Calcofluor and alkaline pH stress. Deletion of residues 21-256 results
+CC       in non-functional protein, removal of residues 21-110 yields a protein
+CC       still able to confer some tolerance to alkaline stress, and deletion of
+CC       residues 116-256 has no effect on the function.
+CC       {ECO:0000269|PubMed:12399379}.
+CC   -!- MISCELLANEOUS: Present with 664 molecules/cell in log phase SD medium.
+CC       {ECO:0000269|PubMed:14562106}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U39481; AAA85862.1; -; Genomic_DNA.
+DR   EMBL; U43491; AAC49488.1; -; Genomic_DNA.
+DR   EMBL; Z74916; CAA99196.1; -; Genomic_DNA.
+DR   EMBL; BK006948; DAA10790.1; -; Genomic_DNA.
+DR   PIR; S61992; S61992.
+DR   RefSeq; NP_014650.1; NM_001183427.1.
+DR   AlphaFoldDB; P54867; -.
+DR   SMR; P54867; -.
+DR   BioGRID; 34412; 229.
+DR   DIP; DIP-4196N; -.
+DR   IntAct; P54867; 2.
+DR   STRING; 4932.YOR008C; -.
+DR   GlyCosmos; P54867; 1 site, No reported glycans.
+DR   iPTMnet; P54867; -.
+DR   MaxQB; P54867; -.
+DR   PaxDb; P54867; -.
+DR   PeptideAtlas; P54867; -.
+DR   EnsemblFungi; YOR008C_mRNA; YOR008C; YOR008C.
+DR   GeneID; 854170; -.
+DR   KEGG; sce:YOR008C; -.
+DR   AGR; SGD:S000005534; -.
+DR   SGD; S000005534; SLG1.
+DR   VEuPathDB; FungiDB:YOR008C; -.
+DR   eggNOG; KOG4157; Eukaryota.
+DR   HOGENOM; CLU_024893_1_1_1; -.
+DR   InParanoid; P54867; -.
+DR   OMA; TTFHTEG; -.
+DR   OrthoDB; 1425255at2759; -.
+DR   BioCyc; YEAST:G3O-33558-MON; -.
+DR   BioGRID-ORCS; 854170; 2 hits in 10 CRISPR screens.
+DR   PRO; PR:P54867; -.
+DR   Proteomes; UP000002311; Chromosome XV.
+DR   RNAct; P54867; protein.
+DR   GO; GO:0005935; C:cellular bud neck; IDA:SGD.
+DR   GO; GO:0005783; C:endoplasmic reticulum; HDA:SGD.
+DR   GO; GO:0000324; C:fungal-type vacuole; HDA:SGD.
+DR   GO; GO:0043332; C:mating projection tip; HDA:SGD.
+DR   GO; GO:0005886; C:plasma membrane; IDA:SGD.
+DR   GO; GO:0004888; F:transmembrane signaling receptor activity; IGI:SGD.
+DR   GO; GO:0030036; P:actin cytoskeleton organization; IMP:SGD.
+DR   GO; GO:0030242; P:autophagy of peroxisome; IMP:SGD.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0030010; P:establishment of cell polarity; IMP:SGD.
+DR   GO; GO:0031505; P:fungal-type cell wall organization; IMP:SGD.
+DR   GO; GO:0045807; P:positive regulation of endocytosis; IMP:SGD.
+DR   GO; GO:0009408; P:response to heat; IMP:SGD.
+DR   GO; GO:0006970; P:response to osmotic stress; IGI:SGD.
+DR   GO; GO:0007266; P:Rho protein signal transduction; IMP:SGD.
+DR   InterPro; IPR002889; WSC_carb-bd.
+DR   PANTHER; PTHR24269; KREMEN PROTEIN; 1.
+DR   PANTHER; PTHR24269:SF16; PROTEIN SLG1; 1.
+DR   Pfam; PF01822; WSC; 1.
+DR   SMART; SM00321; WSC; 1.
+DR   PROSITE; PS51212; WSC; 1.
+PE   1: Evidence at protein level;
+KW   Cell cycle; Cell membrane; Cell wall biogenesis/degradation; Glycoprotein;
+KW   Membrane; Phosphoprotein; Reference proteome; Signal; Stress response;
+KW   Transmembrane; Transmembrane helix.
+FT   SIGNAL          1..21
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           22..378
+FT                   /note="Protein SLG1"
+FT                   /id="PRO_0000041483"
+FT   TOPO_DOM        22..264
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        265..285
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        286..378
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          22..110
+FT                   /note="WSC"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00558"
+FT   REGION          115..201
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          236..256
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          318..378
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        236..251
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        331..345
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        346..363
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   MOD_RES         331
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:18407956"
+FT   MOD_RES         353
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:15665377,
+FT                   ECO:0007744|PubMed:17330950, ECO:0007744|PubMed:19779198"
+FT   CARBOHYD        65
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   MUTAGEN         303
+FT                   /note="Y->A: Sensitive to alkali. Fails to restore normal
+FT                   levels of SLT2 phosphorylation upon alkaline stress."
+FT                   /evidence="ECO:0000269|PubMed:17088254"
+FT   MUTAGEN         319
+FT                   /note="S->A: No phosphorylation; when associated with
+FT                   A-320."
+FT                   /evidence="ECO:0000269|PubMed:15470108"
+FT   MUTAGEN         320
+FT                   /note="S->A: No phosphorylation; when associated with
+FT                   A-319."
+FT                   /evidence="ECO:0000269|PubMed:15470108"
+FT   MUTAGEN         322
+FT                   /note="S->A: No phosphorylation; when associated with
+FT                   A-323."
+FT                   /evidence="ECO:0000269|PubMed:15470108"
+FT   MUTAGEN         323
+FT                   /note="S->A: No phosphorylation; when associated with
+FT                   A-322."
+FT                   /evidence="ECO:0000269|PubMed:15470108"
+SQ   SEQUENCE   378 AA;  39270 MW;  EEE164F2374CCCE3 CRC64;
+     MRPNKTSLLL ALLSILSQAN AYEYVNCFSS LPSDFSKADS YNWQSSSHCN SECSAKGASY
+     FALYNHSECY CGDTNPSGSE STSSSCNTYC FGYSSEMCGG EDAYSVYQLD SDTNSNSISS
+     SDSSTESTSA SSSTTSSTTS STTSTTSSTT SSTTSSMASS STVQNSPEST QAAASISTSQ
+     SSSTVTSESS LTSDTLATSS TSSQSQDATS IIYSTTFHTE GGSTIFVTNT ITASAQNSGS
+     ATGTAGSDST SGSKTHKKKA NVGAIVGGVV GGVVGAVAIA LCILLIVRHI NMKREQDRME
+     KEYQEAIKPV EYPDKLYASS FSSNHGPSSG SFEEEHTKGQ TDINPFDDSR RISNGTFING
+     GPGGKNNVLT VVNPDEAD
+//

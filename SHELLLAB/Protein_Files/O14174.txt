@@ -1,0 +1,156 @@
+ID   SPT20_SCHPO             Reviewed;         473 AA.
+AC   O14174;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   22-FEB-2023, entry version 115.
+DE   RecName: Full=SAGA complex subunit spt20;
+GN   Name=spt20; ORFNames=SPAC4D7.10c;
+OS   Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Taphrinomycotina;
+OC   Schizosaccharomycetes; Schizosaccharomycetales; Schizosaccharomycetaceae;
+OC   Schizosaccharomyces.
+OX   NCBI_TaxID=284812;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=972 / ATCC 24843;
+RX   PubMed=11859360; DOI=10.1038/nature724;
+RA   Wood V., Gwilliam R., Rajandream M.A., Lyne M.H., Lyne R., Stewart A.,
+RA   Sgouros J.G., Peat N., Hayles J., Baker S.G., Basham D., Bowman S.,
+RA   Brooks K., Brown D., Brown S., Chillingworth T., Churcher C.M., Collins M.,
+RA   Connor R., Cronin A., Davis P., Feltwell T., Fraser A., Gentles S.,
+RA   Goble A., Hamlin N., Harris D.E., Hidalgo J., Hodgson G., Holroyd S.,
+RA   Hornsby T., Howarth S., Huckle E.J., Hunt S., Jagels K., James K.D.,
+RA   Jones L., Jones M., Leather S., McDonald S., McLean J., Mooney P.,
+RA   Moule S., Mungall K.L., Murphy L.D., Niblett D., Odell C., Oliver K.,
+RA   O'Neil S., Pearson D., Quail M.A., Rabbinowitsch E., Rutherford K.M.,
+RA   Rutter S., Saunders D., Seeger K., Sharp S., Skelton J., Simmonds M.N.,
+RA   Squares R., Squares S., Stevens K., Taylor K., Taylor R.G., Tivey A.,
+RA   Walsh S.V., Warren T., Whitehead S., Woodward J.R., Volckaert G., Aert R.,
+RA   Robben J., Grymonprez B., Weltjens I., Vanstreels E., Rieger M.,
+RA   Schaefer M., Mueller-Auer S., Gabel C., Fuchs M., Duesterhoeft A.,
+RA   Fritzc C., Holzer E., Moestl D., Hilbert H., Borzym K., Langer I., Beck A.,
+RA   Lehrach H., Reinhardt R., Pohl T.M., Eger P., Zimmermann W., Wedler H.,
+RA   Wambutt R., Purnelle B., Goffeau A., Cadieu E., Dreano S., Gloux S.,
+RA   Lelaure V., Mottier S., Galibert F., Aves S.J., Xiang Z., Hunt C.,
+RA   Moore K., Hurst S.M., Lucas M., Rochet M., Gaillardin C., Tallada V.A.,
+RA   Garzon A., Thode G., Daga R.R., Cruzado L., Jimenez J., Sanchez M.,
+RA   del Rey F., Benito J., Dominguez A., Revuelta J.L., Moreno S.,
+RA   Armstrong J., Forsburg S.L., Cerutti L., Lowe T., McCombie W.R.,
+RA   Paulsen I., Potashkin J., Shpakovski G.V., Ussery D., Barrell B.G.,
+RA   Nurse P.;
+RT   "The genome sequence of Schizosaccharomyces pombe.";
+RL   Nature 415:871-880(2002).
+RN   [2]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=16823372; DOI=10.1038/nbt1222;
+RA   Matsuyama A., Arai R., Yashiroda Y., Shirai A., Kamata A., Sekido S.,
+RA   Kobayashi Y., Hashimoto A., Hamamoto M., Hiraoka Y., Horinouchi S.,
+RA   Yoshida M.;
+RT   "ORFeome cloning and global analysis of protein localization in the fission
+RT   yeast Schizosaccharomyces pombe.";
+RL   Nat. Biotechnol. 24:841-847(2006).
+RN   [3]
+RP   IDENTIFICATION IN THE SAGA COMPLEX, FUNCTION OF THE SAGA COMPLEX, AND
+RP   DISRUPTION PHENOTYPE.
+RX   PubMed=19056896; DOI=10.1101/gad.1719908;
+RA   Helmlinger D., Marguerat S., Villen J., Gygi S.P., Bahler J., Winston F.;
+RT   "The S. pombe SAGA complex controls the switch from proliferation to sexual
+RT   differentiation through the opposing roles of its subunits Gcn5 and Spt8.";
+RL   Genes Dev. 22:3184-3195(2008).
+RN   [4]
+RP   DISRUPTION PHENOTYPE.
+RX   PubMed=21642955; DOI=10.1038/emboj.2011.181;
+RA   Helmlinger D., Marguerat S., Villen J., Swaney D.L., Gygi S.P., Bahler J.,
+RA   Winston F.;
+RT   "Tra1 has specific regulatory roles, rather than global functions, within
+RT   the SAGA co-activator complex.";
+RL   EMBO J. 30:2843-2852(2011).
+CC   -!- FUNCTION: Functions as component of the transcription regulatory
+CC       histone acetylation (HAT) complex SAGA. At the promoters, SAGA is
+CC       required for recruitment of the basal transcription machinery. It
+CC       influences RNA polymerase II transcriptional activity through different
+CC       activities such as TBP interaction and promoter selectivity,
+CC       interaction with transcription activators, and chromatin modification
+CC       through histone acetylation and deubiquitination. SAGA acetylates
+CC       nucleosomal histone H3 to some extent (to form H3K9ac, H3K14ac, H3K18ac
+CC       and H3K23ac). SAGA interacts with DNA via upstream activating sequences
+CC       (UASs). {ECO:0000269|PubMed:19056896}.
+CC   -!- SUBUNIT: Component of the SAGA complex. {ECO:0000269|PubMed:19056896}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:16823372}. Cytoplasm
+CC       {ECO:0000269|PubMed:16823372}.
+CC   -!- DISRUPTION PHENOTYPE: Leads to decreased growth at high temperature and
+CC       sensitivity to several drugs like hydroxyurea, caffeine, canavanine and
+CC       rapamycin; as well as to raffinose. {ECO:0000269|PubMed:19056896,
+CC       ECO:0000269|PubMed:21642955}.
+CC   -!- SIMILARITY: Belongs to the SPT20 family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CU329670; CAB11282.1; -; Genomic_DNA.
+DR   PIR; T38801; T38801.
+DR   RefSeq; NP_594963.1; NM_001020394.2.
+DR   AlphaFoldDB; O14174; -.
+DR   BioGRID; 280089; 12.
+DR   IntAct; O14174; 2.
+DR   MINT; O14174; -.
+DR   STRING; 4896.SPAC4D7.10c.1; -.
+DR   iPTMnet; O14174; -.
+DR   MaxQB; O14174; -.
+DR   PaxDb; O14174; -.
+DR   EnsemblFungi; SPAC4D7.10c.1; SPAC4D7.10c.1:pep; SPAC4D7.10c.
+DR   PomBase; SPAC4D7.10c; spt20.
+DR   VEuPathDB; FungiDB:SPAC4D7.10c; -.
+DR   eggNOG; ENOG502QS30; Eukaryota.
+DR   HOGENOM; CLU_577656_0_0_1; -.
+DR   InParanoid; O14174; -.
+DR   OMA; RMELIPP; -.
+DR   PhylomeDB; O14174; -.
+DR   PRO; PR:O14174; -.
+DR   Proteomes; UP000002485; Chromosome I.
+DR   GO; GO:0005737; C:cytoplasm; IDA:PomBase.
+DR   GO; GO:0005829; C:cytosol; HDA:PomBase.
+DR   GO; GO:0036391; C:medial cortex septin ring; IDA:PomBase.
+DR   GO; GO:0005634; C:nucleus; IDA:PomBase.
+DR   GO; GO:0000124; C:SAGA complex; IDA:PomBase.
+DR   GO; GO:0003713; F:transcription coactivator activity; ISO:PomBase.
+DR   GO; GO:0003712; F:transcription coregulator activity; IBA:GO_Central.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; EXP:PomBase.
+DR   GO; GO:0031106; P:septin ring organization; IMP:PomBase.
+DR   GO; GO:0045815; P:transcription initiation-coupled chromatin remodeling; IC:PomBase.
+DR   InterPro; IPR021950; Spt20.
+DR   InterPro; IPR046468; Spt20-like_SEP.
+DR   PANTHER; PTHR13526; TRANSCRIPTION FACTOR SPT20 HOMOLOG; 1.
+DR   PANTHER; PTHR13526:SF8; TRANSCRIPTION FACTOR SPT20 HOMOLOG; 1.
+DR   Pfam; PF12090; Spt20; 1.
+PE   1: Evidence at protein level;
+KW   Cytoplasm; Nucleus; Reference proteome; Transcription;
+KW   Transcription regulation.
+FT   CHAIN           1..473
+FT                   /note="SAGA complex subunit spt20"
+FT                   /id="PRO_0000116700"
+FT   REGION          134..179
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          304..385
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        134..177
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        304..349
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        366..380
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+SQ   SEQUENCE   473 AA;  54028 MW;  C098846120AE3DE5 CRC64;
+     MERNNGLGDY TYRYHGKELS LDDFQNKQGI ESSDDAFLSK IYENVSNFNV PRKLHDIEHK
+     FSKEEPSLIL HIHKFHFRFE QQDGAFTYNG PVKSILQYIR MELIPPDCLE VFRNSDVKFY
+     DGCLTVRIID HRQSPSADQT VQPQPGSTNQ QQQNNTNPIN NQPEDTKPNT NSPPVYHTVL
+     RPTPETLWQD LCLLSESFAN SLSDEAVLTL ESNILLASEA PLFLTPAKSK AEMIQFMNQL
+     ADSAPPCTRK KPQGSAQLAD EEAERLEKEN LLLLMDDQRK RDFQPTFQRL QFIENVRRKR
+     AILQQRQMQM QQQQKAQQQQ SPKAQQPPAH LVQSAPVQRK TTPKIQRLPP SSIQIPPPKP
+     MQKFPANAAS SESPPNATGN FLPSGPVPAN EPMLKRESVD LIKIRQLAIL FQQRASQLKA
+     RGATREQITE ILNRQAIAAG TDLATVMTVA RNLHFQQLQM RQQQQQQQMK AER
+//

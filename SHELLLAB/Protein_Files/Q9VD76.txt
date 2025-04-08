@@ -1,0 +1,207 @@
+ID   GR93A_DROME             Reviewed;         419 AA.
+AC   Q9VD76;
+DT   10-MAY-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 2.
+DT   22-FEB-2023, entry version 124.
+DE   RecName: Full=Gustatory receptor for bitter taste 93a;
+GN   Name=Gr93a; Synonyms=GR93F.1; ORFNames=CG13417;
+OS   Drosophila melanogaster (Fruit fly).
+OC   Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota;
+OC   Neoptera; Endopterygota; Diptera; Brachycera; Muscomorpha; Ephydroidea;
+OC   Drosophilidae; Drosophila; Sophophora.
+OX   NCBI_TaxID=7227 {ECO:0000312|EMBL:AAF55923.2};
+RN   [1] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Berkeley {ECO:0000269|PubMed:10731132};
+RX   PubMed=10731132; DOI=10.1126/science.287.5461.2185;
+RA   Adams M.D., Celniker S.E., Holt R.A., Evans C.A., Gocayne J.D.,
+RA   Amanatides P.G., Scherer S.E., Li P.W., Hoskins R.A., Galle R.F.,
+RA   George R.A., Lewis S.E., Richards S., Ashburner M., Henderson S.N.,
+RA   Sutton G.G., Wortman J.R., Yandell M.D., Zhang Q., Chen L.X., Brandon R.C.,
+RA   Rogers Y.-H.C., Blazej R.G., Champe M., Pfeiffer B.D., Wan K.H., Doyle C.,
+RA   Baxter E.G., Helt G., Nelson C.R., Miklos G.L.G., Abril J.F., Agbayani A.,
+RA   An H.-J., Andrews-Pfannkoch C., Baldwin D., Ballew R.M., Basu A.,
+RA   Baxendale J., Bayraktaroglu L., Beasley E.M., Beeson K.Y., Benos P.V.,
+RA   Berman B.P., Bhandari D., Bolshakov S., Borkova D., Botchan M.R., Bouck J.,
+RA   Brokstein P., Brottier P., Burtis K.C., Busam D.A., Butler H., Cadieu E.,
+RA   Center A., Chandra I., Cherry J.M., Cawley S., Dahlke C., Davenport L.B.,
+RA   Davies P., de Pablos B., Delcher A., Deng Z., Mays A.D., Dew I.,
+RA   Dietz S.M., Dodson K., Doup L.E., Downes M., Dugan-Rocha S., Dunkov B.C.,
+RA   Dunn P., Durbin K.J., Evangelista C.C., Ferraz C., Ferriera S.,
+RA   Fleischmann W., Fosler C., Gabrielian A.E., Garg N.S., Gelbart W.M.,
+RA   Glasser K., Glodek A., Gong F., Gorrell J.H., Gu Z., Guan P., Harris M.,
+RA   Harris N.L., Harvey D.A., Heiman T.J., Hernandez J.R., Houck J., Hostin D.,
+RA   Houston K.A., Howland T.J., Wei M.-H., Ibegwam C., Jalali M., Kalush F.,
+RA   Karpen G.H., Ke Z., Kennison J.A., Ketchum K.A., Kimmel B.E., Kodira C.D.,
+RA   Kraft C.L., Kravitz S., Kulp D., Lai Z., Lasko P., Lei Y., Levitsky A.A.,
+RA   Li J.H., Li Z., Liang Y., Lin X., Liu X., Mattei B., McIntosh T.C.,
+RA   McLeod M.P., McPherson D., Merkulov G., Milshina N.V., Mobarry C.,
+RA   Morris J., Moshrefi A., Mount S.M., Moy M., Murphy B., Murphy L.,
+RA   Muzny D.M., Nelson D.L., Nelson D.R., Nelson K.A., Nixon K., Nusskern D.R.,
+RA   Pacleb J.M., Palazzolo M., Pittman G.S., Pan S., Pollard J., Puri V.,
+RA   Reese M.G., Reinert K., Remington K., Saunders R.D.C., Scheeler F.,
+RA   Shen H., Shue B.C., Siden-Kiamos I., Simpson M., Skupski M.P., Smith T.J.,
+RA   Spier E., Spradling A.C., Stapleton M., Strong R., Sun E., Svirskas R.,
+RA   Tector C., Turner R., Venter E., Wang A.H., Wang X., Wang Z.-Y.,
+RA   Wassarman D.A., Weinstock G.M., Weissenbach J., Williams S.M., Woodage T.,
+RA   Worley K.C., Wu D., Yang S., Yao Q.A., Ye J., Yeh R.-F., Zaveri J.S.,
+RA   Zhan M., Zhang G., Zhao Q., Zheng L., Zheng X.H., Zhong F.N., Zhong W.,
+RA   Zhou X., Zhu S.C., Zhu X., Smith H.O., Gibbs R.A., Myers E.W., Rubin G.M.,
+RA   Venter J.C.;
+RT   "The genome sequence of Drosophila melanogaster.";
+RL   Science 287:2185-2195(2000).
+RN   [2] {ECO:0000305}
+RP   GENOME REANNOTATION.
+RC   STRAIN=Berkeley;
+RX   PubMed=12537572; DOI=10.1186/gb-2002-3-12-research0083;
+RA   Misra S., Crosby M.A., Mungall C.J., Matthews B.B., Campbell K.S.,
+RA   Hradecky P., Huang Y., Kaminker J.S., Millburn G.H., Prochnik S.E.,
+RA   Smith C.D., Tupy J.L., Whitfield E.J., Bayraktaroglu L., Berman B.P.,
+RA   Bettencourt B.R., Celniker S.E., de Grey A.D.N.J., Drysdale R.A.,
+RA   Harris N.L., Richter J., Russo S., Schroeder A.J., Shu S.Q., Stapleton M.,
+RA   Yamada C., Ashburner M., Gelbart W.M., Rubin G.M., Lewis S.E.;
+RT   "Annotation of the Drosophila melanogaster euchromatic genome: a systematic
+RT   review.";
+RL   Genome Biol. 3:RESEARCH0083.1-RESEARCH0083.22(2002).
+RN   [3] {ECO:0000305}
+RP   IDENTIFICATION.
+RX   PubMed=10710312; DOI=10.1126/science.287.5459.1830;
+RA   Clyne P.J., Warr C.G., Carlson J.R.;
+RT   "Candidate taste receptors in Drosophila.";
+RL   Science 287:1830-1834(2000).
+RN   [4] {ECO:0000305}
+RP   IDENTIFICATION.
+RX   PubMed=11516643; DOI=10.1016/s0960-9822(01)00258-5;
+RA   Dunipace L., Meister S., McNealy C., Amrein H.;
+RT   "Spatially restricted expression of candidate taste receptors in the
+RT   Drosophila gustatory system.";
+RL   Curr. Biol. 11:822-835(2001).
+RN   [5]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=19246397; DOI=10.1073/pnas.0811744106;
+RA   Lee Y., Moon S.J., Montell C.;
+RT   "Multiple gustatory receptors required for the caffeine response in
+RT   Drosophila.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:4495-4500(2009).
+RN   [6]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=22031876; DOI=10.1523/jneurosci.3363-11.2011;
+RA   Kwon J.Y., Dahanukar A., Weiss L.A., Carlson J.R.;
+RT   "Molecular and cellular organization of the taste system in the Drosophila
+RT   larva.";
+RL   J. Neurosci. 31:15300-15309(2011).
+CC   -!- FUNCTION: Gustatory receptor required for response to the bitter in
+CC       taste neurons. Gr93a cells respond to bitter compounds such as
+CC       caffeine. Flies avoid bitter substances, suggesting that Gr93a neuron
+CC       activity is sufficient to mediate avoidance behavior.
+CC       {ECO:0000269|PubMed:19246397}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250}; Multi-pass membrane
+CC       protein {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: In larvae, is expressed in neurons of the dorsal
+CC       pharyngeal sense organs. {ECO:0000269|PubMed:22031876}.
+CC   -!- DISRUPTION PHENOTYPE: Disrupts fly aversion to caffeine.
+CC       {ECO:0000269|PubMed:19246397}.
+CC   -!- SIMILARITY: Belongs to the insect chemoreceptor superfamily. Gustatory
+CC       receptor (GR) family. Gr93a subfamily. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AE014297; AAF55923.2; -; Genomic_DNA.
+DR   RefSeq; NP_524442.2; NM_079718.3.
+DR   AlphaFoldDB; Q9VD76; -.
+DR   STRING; 7227.FBpp0083531; -.
+DR   PaxDb; Q9VD76; -.
+DR   EnsemblMetazoa; FBtr0084133; FBpp0083531; FBgn0041229.
+DR   GeneID; 42568; -.
+DR   KEGG; dme:Dmel_CG13417; -.
+DR   AGR; FB:FBgn0041229; -.
+DR   CTD; 42568; -.
+DR   FlyBase; FBgn0041229; Gr93a.
+DR   VEuPathDB; VectorBase:FBgn0041229; -.
+DR   eggNOG; ENOG502T83R; Eukaryota.
+DR   HOGENOM; CLU_614325_0_0_1; -.
+DR   InParanoid; Q9VD76; -.
+DR   OMA; MCADYAV; -.
+DR   OrthoDB; 3607538at2759; -.
+DR   PhylomeDB; Q9VD76; -.
+DR   BioGRID-ORCS; 42568; 0 hits in 1 CRISPR screen.
+DR   GenomeRNAi; 42568; -.
+DR   PRO; PR:Q9VD76; -.
+DR   Proteomes; UP000000803; Chromosome 3R.
+DR   Bgee; FBgn0041229; Expressed in mouthpart and 1 other tissue.
+DR   ExpressionAtlas; Q9VD76; baseline.
+DR   Genevisible; Q9VD76; DM.
+DR   GO; GO:0030424; C:axon; IBA:GO_Central.
+DR   GO; GO:0030425; C:dendrite; IBA:GO_Central.
+DR   GO; GO:0016020; C:membrane; NAS:UniProtKB.
+DR   GO; GO:0043025; C:neuronal cell body; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008527; F:taste receptor activity; NAS:UniProtKB.
+DR   GO; GO:0031000; P:response to caffeine; IMP:FlyBase.
+DR   GO; GO:0050909; P:sensory perception of taste; NAS:UniProtKB.
+DR   GO; GO:0007165; P:signal transduction; IEA:UniProtKB-KW.
+DR   InterPro; IPR013604; 7TM_chemorcpt.
+DR   PANTHER; PTHR21143:SF130; GUSTATORY AND PHEROMONE RECEPTOR 32A-RELATED; 1.
+DR   PANTHER; PTHR21143; INVERTEBRATE GUSTATORY RECEPTOR; 1.
+DR   Pfam; PF08395; 7tm_7; 1.
+PE   2: Evidence at transcript level;
+KW   Cell membrane; Membrane; Receptor; Reference proteome; Transducer;
+KW   Transmembrane; Transmembrane helix.
+FT   CHAIN           1..419
+FT                   /note="Gustatory receptor for bitter taste 93a"
+FT                   /id="PRO_0000216541"
+FT   TOPO_DOM        1..55
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000250"
+FT   TRANSMEM        56..76
+FT                   /note="Helical; Name=1"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        77..90
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000250"
+FT   TRANSMEM        91..111
+FT                   /note="Helical; Name=2"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        112..145
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000250"
+FT   TRANSMEM        146..166
+FT                   /note="Helical; Name=3"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        167..184
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000250"
+FT   TRANSMEM        185..205
+FT                   /note="Helical; Name=4"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        206..277
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000250"
+FT   TRANSMEM        278..298
+FT                   /note="Helical; Name=5"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        299..305
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000250"
+FT   TRANSMEM        306..326
+FT                   /note="Helical; Name=6"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        327..383
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000250"
+FT   TRANSMEM        384..404
+FT                   /note="Helical; Name=7"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        405..419
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000250"
+SQ   SEQUENCE   419 AA;  48834 MW;  A124B6C5304C1B52 CRC64;
+     MFSSSSAMTG KRAESWSRLL LLWLYRCARG LLVLSSSLDR DKLQLKATKQ GSRNRFLHIL
+     WRCIVVMIYA GLWPMLTSAV IGKRLESYAD VLALAQSMSV SILAVISFVI QARGENQFRE
+     VLNRYLALYQ RICLTTRLRH LFPTKFVVFF LLKLFFTLCG CFHEIIPLFE NSHFDDISQM
+     VGTGFGIYMW LGTLCVLDAC FLGFLVSGIL YEHMANNIIA MLKRMEPIES QDERYRMTKY
+     RRMQLLCDFA DELDECAAIY SELYHVTNSF RRILQWQILF YIYLNFINIC LMLYQYILHF
+     LNDDEVVFVS IVMAFVKLAN LVLLMMCADY TVRQSEVPKK LPLDIVCSDM DERWDKSVET
+     FLGQLQTQRL EIKVLGFFHL NNEFILLILS AIISYLFILI QFGITGGFEA SEDIKNRFD
+//
